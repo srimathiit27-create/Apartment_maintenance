@@ -1,0 +1,34 @@
+=== STAGE 1: Seed offline database ===
+SEEDED blocks=4 apartments=200 residents=179 charges=2400 complaints=1600 payments=1771
+MARIADB_SEED_SQL /mnt/data/apartment-management/database/mariadb_seed.sql 9967 inserts
+unique apartment-month charge: PASS
+foreign key rejects orphan resident: PASS
+overpayment rejected: PASS
+vacant apartment cannot have resident: PASS
+vacant apartment cannot complain: PASS
+future complaint rejected: PASS
+forward-only complaint transitions and audit history: PASS
+seed volume checks: PASS
+=== STAGE 2: Compile and run Java ===
+Apartment Maintenance System - scripted demo
+JAVA COUNTS: {"apartments":200,"charges":2400,"complaints":1600}
+Validation: phone 9876543210 -> true
+One payment accepted; duplicate attempts safely ignored
+Payment writes: 1 (expected 1)
+Concurrent complaint update accepted: true
+Streams report: {Resolved=2, In Progress=1, Open=1}
+DEMO PASS
+=== STAGE 3: Python analytics ===
+ANALYTICS_SOURCE=SQLite offline fixture
+ANALYTICS {'apartments': 200, 'charges': 2400, 'complaints': 1600, 'collected': 3349100.0, 'outstanding': 1468700.0, 'resolved_pct': 60.1, 'sla_breaches': 1204, 'charts': 12}
+CHARTS 12 saved to /mnt/data/apartment-management/python/output
+=== STAGE 4: Headless website test ===
+WEBSITE TEST PASS: loads; 4 blocks; complaint queue; resident dues; apartment selection; theme toggle; no JS errors (localStorage shim)
+=== STAGE 5: Documentation and deployment artifacts ===
+DOCUMENTATION CHECK PASS
+=== CROSS-CHECK ===
+SQL counts: {'apartments': 200, 'charges': 2400, 'complaints': 1600}
+Java counts: {'apartments': 200, 'charges': 2400, 'complaints': 1600}
+Python counts: {'apartments': 200, 'charges': 2400, 'complaints': 1600}
+CROSS-CHECK PASS
+ALL OFFLINE STAGES PASSED

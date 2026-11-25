@@ -1,0 +1,1601 @@
+complaint_id,apartment_id,category,description,complaint_date,status,assigned_to,resolution_date,resolution_days,block_name,resolution_time,sla_breach
+1,138,Plumbing,Corridor light not working,2026-01-17,Resolved,Plumber,,,C,303.0,False
+2,111,Security,Common area repair,2026-01-15,In Progress,Electrician,,,C,305.0,True
+3,109,Lift,Corridor light not working,2026-01-11,Resolved,Maintenance Team,2026-01-23,12.0,C,12.0,True
+4,78,Lift,Waste collection delayed,2026-09-14,Resolved,Electrician,2026-09-21,7.0,B,7.0,False
+5,152,Water,Gate access issue,2026-07-10,Open,Admin,,,D,129.0,True
+6,129,Water,Common area repair,2026-01-13,Resolved,Maintenance Team,2026-01-14,1.0,C,1.0,False
+7,63,Electrical,Pipe leakage,2026-01-10,In Progress,Admin,,,B,310.0,True
+8,133,Electrical,Pipe leakage,2026-01-19,Resolved,Maintenance Team,2026-02-04,16.0,C,16.0,True
+9,158,Cleanliness,Lift maintenance request,2026-03-15,Resolved,Admin,2026-03-22,7.0,D,7.0,False
+10,101,Electrical,Gate access issue,2025-12-18,Open,Electrician,,,C,333.0,True
+11,79,Water,Lift maintenance request,2026-01-24,Open,Plumber,,,B,296.0,True
+12,16,Other,Gate access issue,2026-04-25,Resolved,Maintenance Team,2026-05-06,11.0,A,11.0,True
+13,180,Electrical,Pipe leakage,2026-11-04,Resolved,Admin,2026-11-12,8.0,D,8.0,True
+14,170,Other,Waste collection delayed,2026-07-09,Resolved,Plumber,2026-07-10,1.0,D,1.0,False
+15,186,Plumbing,Common area repair,2026-06-12,Resolved,Maintenance Team,2026-06-14,2.0,D,2.0,False
+16,94,Plumbing,Gate access issue,2026-03-01,Resolved,Maintenance Team,2026-03-09,8.0,B,8.0,True
+17,10,Lift,Waste collection delayed,2026-08-24,Resolved,Electrician,2026-09-04,11.0,A,11.0,True
+18,91,Other,Corridor light not working,2026-04-25,Resolved,Plumber,2026-05-01,6.0,B,6.0,False
+19,113,Water,Common area repair,2026-11-14,Open,Electrician,,,C,2.0,False
+20,200,Other,Gate access issue,2026-01-06,Resolved,Electrician,2026-01-22,16.0,D,16.0,True
+21,66,Electrical,Corridor light not working,2026-06-30,Open,Electrician,,,B,139.0,True
+22,151,Water,Waste collection delayed,2026-10-04,Open,Plumber,,,D,43.0,True
+23,35,Lift,Common area repair,2026-01-19,Resolved,Plumber,2026-01-28,9.0,A,9.0,True
+24,174,Cleanliness,Gate access issue,2026-09-23,Resolved,Maintenance Team,2026-10-03,10.0,D,10.0,True
+25,115,Other,Corridor light not working,2026-05-01,Open,Admin,,,C,199.0,True
+26,31,Other,Common area repair,2026-07-15,Resolved,Maintenance Team,2026-07-24,9.0,A,9.0,True
+27,199,Plumbing,Waste collection delayed,2026-06-01,Resolved,Plumber,2026-06-16,15.0,D,15.0,True
+28,22,Lift,Corridor light not working,2026-11-12,Resolved,Admin,2026-11-16,4.0,A,4.0,False
+29,146,Security,Gate access issue,2026-04-08,In Progress,Electrician,,,C,222.0,True
+30,89,Plumbing,Common area repair,2026-02-01,Open,Admin,,,B,288.0,True
+31,112,Other,Common area repair,2026-06-13,Open,Admin,,,C,156.0,True
+32,61,Security,Corridor light not working,2026-01-19,Open,Maintenance Team,,,B,301.0,True
+33,141,Electrical,Low water pressure,2026-10-27,In Progress,Admin,,,C,20.0,True
+34,116,Lift,Gate access issue,2026-06-07,Resolved,Plumber,2026-06-22,15.0,C,15.0,True
+35,125,Security,Common area repair,2026-01-15,Resolved,Electrician,2026-01-30,15.0,C,15.0,True
+36,200,Other,Lift maintenance request,2026-06-28,Open,Maintenance Team,,,D,141.0,True
+37,183,Plumbing,Lift maintenance request,2026-06-21,Resolved,Electrician,2026-06-29,8.0,D,8.0,True
+38,63,Other,Corridor light not working,2026-03-29,Open,Electrician,,,B,232.0,True
+39,106,Lift,Corridor light not working,2026-08-30,Resolved,Electrician,2026-09-13,14.0,C,14.0,True
+40,45,Security,Lift maintenance request,2026-09-23,Resolved,Plumber,2026-10-11,18.0,A,18.0,True
+41,34,Water,Common area repair,2026-06-18,Resolved,Plumber,2026-06-20,2.0,A,2.0,False
+42,185,Security,Pipe leakage,2026-06-25,Resolved,Plumber,2026-06-28,3.0,D,3.0,False
+43,111,Lift,Low water pressure,2026-02-11,Resolved,Maintenance Team,2026-02-25,14.0,C,14.0,True
+44,106,Water,Waste collection delayed,2026-10-16,Resolved,Electrician,2026-10-23,7.0,C,7.0,False
+45,78,Electrical,Lift maintenance request,2026-02-14,Open,Electrician,,,B,275.0,True
+46,144,Cleanliness,Gate access issue,2026-04-23,Resolved,Maintenance Team,2026-05-03,10.0,C,10.0,True
+47,162,Water,Pipe leakage,2025-12-30,Resolved,Maintenance Team,2026-01-03,4.0,D,4.0,False
+48,152,Plumbing,Pipe leakage,2026-09-06,Resolved,Maintenance Team,2026-09-07,1.0,D,1.0,False
+49,126,Lift,Corridor light not working,2026-06-15,Resolved,Plumber,2026-06-20,5.0,C,5.0,False
+50,134,Security,Corridor light not working,2026-07-12,Resolved,Admin,2026-07-23,11.0,C,11.0,True
+51,10,Electrical,Corridor light not working,2026-05-03,Resolved,Electrician,2026-05-21,18.0,A,18.0,True
+52,33,Water,Low water pressure,2026-05-23,Open,Electrician,,,A,177.0,True
+53,51,Water,Corridor light not working,2026-11-09,Resolved,Plumber,2026-11-16,7.0,B,7.0,False
+54,14,Plumbing,Low water pressure,2026-08-19,Open,Maintenance Team,,,A,89.0,True
+55,198,Lift,Lift maintenance request,2026-09-10,Resolved,Admin,2026-09-19,9.0,D,9.0,True
+56,32,Lift,Common area repair,2026-05-04,Resolved,Plumber,2026-05-16,12.0,A,12.0,True
+57,165,Cleanliness,Gate access issue,2026-09-19,In Progress,Maintenance Team,,,D,58.0,True
+58,181,Electrical,Corridor light not working,2026-08-03,Resolved,Maintenance Team,2026-08-20,17.0,D,17.0,True
+59,29,Other,Gate access issue,2025-12-20,Open,Plumber,,,A,331.0,True
+60,22,Plumbing,Pipe leakage,2026-06-14,Resolved,Admin,2026-06-16,2.0,A,2.0,False
+61,184,Electrical,Low water pressure,2026-05-21,Resolved,Admin,2026-05-27,6.0,D,6.0,False
+62,71,Water,Lift maintenance request,2025-12-27,Resolved,Maintenance Team,2026-01-08,12.0,B,12.0,True
+63,4,Security,Common area repair,2025-12-06,Resolved,Electrician,2025-12-16,10.0,A,10.0,True
+64,30,Water,Common area repair,2025-11-23,In Progress,Electrician,,,A,358.0,True
+65,163,Plumbing,Gate access issue,2026-05-29,In Progress,Maintenance Team,,,D,171.0,True
+66,29,Electrical,Pipe leakage,2026-04-23,Resolved,Plumber,2026-05-01,8.0,A,8.0,True
+67,67,Cleanliness,Low water pressure,2026-08-13,In Progress,Admin,,,B,95.0,True
+68,126,Security,Common area repair,2026-06-01,Resolved,Maintenance Team,2026-06-09,8.0,C,8.0,True
+69,64,Lift,Gate access issue,2026-01-17,Open,Plumber,,,B,303.0,True
+70,14,Cleanliness,Corridor light not working,2026-10-09,Resolved,Admin,2026-10-17,8.0,A,8.0,True
+71,22,Electrical,Pipe leakage,2026-05-13,Resolved,Admin,2026-05-21,8.0,A,8.0,True
+72,183,Plumbing,Waste collection delayed,2026-02-09,Resolved,Electrician,2026-02-23,14.0,D,14.0,True
+73,192,Water,Gate access issue,2026-08-04,Resolved,Plumber,2026-08-10,6.0,D,6.0,False
+74,119,Plumbing,Waste collection delayed,2026-03-19,In Progress,Admin,,,C,242.0,True
+75,40,Plumbing,Low water pressure,2026-06-07,Resolved,Admin,2026-06-16,9.0,A,9.0,True
+76,78,Water,Corridor light not working,2026-10-19,In Progress,Plumber,,,B,28.0,True
+77,77,Lift,Gate access issue,2026-09-23,Open,Maintenance Team,,,B,54.0,True
+78,60,Water,Common area repair,2026-05-12,Resolved,Plumber,2026-05-19,7.0,B,7.0,False
+79,158,Plumbing,Gate access issue,2025-11-27,Resolved,Maintenance Team,2025-12-04,7.0,D,7.0,False
+80,8,Plumbing,Waste collection delayed,2026-08-17,Resolved,Electrician,2026-08-25,8.0,A,8.0,True
+81,165,Security,Waste collection delayed,2025-11-28,Resolved,Plumber,2025-12-05,7.0,D,7.0,False
+82,104,Electrical,Gate access issue,2026-02-06,Open,Electrician,,,C,283.0,True
+83,37,Plumbing,Lift maintenance request,2026-01-11,Resolved,Maintenance Team,2026-01-17,6.0,A,6.0,False
+84,29,Security,Lift maintenance request,2026-03-09,Resolved,Electrician,2026-03-20,11.0,A,11.0,True
+85,169,Cleanliness,Gate access issue,2026-08-08,Resolved,Admin,2026-08-23,15.0,D,15.0,True
+86,8,Other,Lift maintenance request,2026-06-05,Resolved,Admin,2026-06-21,16.0,A,16.0,True
+87,28,Water,Common area repair,2026-07-28,Resolved,Plumber,2026-08-14,17.0,A,17.0,True
+88,56,Lift,Pipe leakage,2026-03-08,In Progress,Electrician,,,B,253.0,True
+89,182,Cleanliness,Corridor light not working,2026-10-04,Resolved,Electrician,2026-10-07,3.0,D,3.0,False
+90,19,Cleanliness,Gate access issue,2026-07-12,Resolved,Plumber,2026-07-21,9.0,A,9.0,True
+91,180,Lift,Gate access issue,2026-05-28,Resolved,Admin,2026-06-04,7.0,D,7.0,False
+92,54,Electrical,Waste collection delayed,2026-08-22,Resolved,Electrician,2026-09-05,14.0,B,14.0,True
+93,87,Water,Gate access issue,2026-04-03,In Progress,Plumber,,,B,227.0,True
+94,40,Electrical,Waste collection delayed,2026-01-20,Open,Plumber,,,A,300.0,True
+95,5,Plumbing,Corridor light not working,2026-03-03,Resolved,Plumber,2026-03-12,9.0,A,9.0,True
+96,69,Water,Pipe leakage,2026-04-08,Open,Admin,,,B,222.0,True
+97,26,Lift,Gate access issue,2026-10-20,In Progress,Electrician,,,A,27.0,True
+98,164,Cleanliness,Common area repair,2026-10-21,Resolved,Maintenance Team,2026-10-25,4.0,D,4.0,False
+99,116,Plumbing,Corridor light not working,2026-05-13,Open,Maintenance Team,,,C,187.0,True
+100,56,Lift,Pipe leakage,2025-12-09,Resolved,Plumber,2025-12-17,8.0,B,8.0,True
+101,45,Security,Common area repair,2026-05-30,In Progress,Maintenance Team,,,A,170.0,True
+102,188,Other,Waste collection delayed,2026-02-13,Resolved,Maintenance Team,2026-03-03,18.0,D,18.0,True
+103,122,Plumbing,Corridor light not working,2025-11-26,Resolved,Electrician,2025-12-09,13.0,C,13.0,True
+104,163,Cleanliness,Waste collection delayed,2026-11-09,Resolved,Admin,2026-11-15,6.0,D,6.0,False
+105,112,Cleanliness,Low water pressure,2025-11-24,Resolved,Admin,2025-12-05,11.0,C,11.0,True
+106,188,Plumbing,Corridor light not working,2026-06-12,Resolved,Admin,2026-06-20,8.0,D,8.0,True
+107,168,Electrical,Common area repair,2026-04-24,Resolved,Electrician,2026-04-27,3.0,D,3.0,False
+108,26,Water,Gate access issue,2026-04-10,Resolved,Admin,2026-04-27,17.0,A,17.0,True
+109,99,Other,Waste collection delayed,2026-01-12,In Progress,Admin,,,B,308.0,True
+110,181,Electrical,Common area repair,2026-05-05,In Progress,Plumber,,,D,195.0,True
+111,164,Other,Corridor light not working,2026-06-07,Open,Admin,,,D,162.0,True
+112,122,Electrical,Pipe leakage,2026-04-04,Resolved,Maintenance Team,2026-04-18,14.0,C,14.0,True
+113,133,Security,Waste collection delayed,2025-11-22,Resolved,Maintenance Team,2025-11-24,2.0,C,2.0,False
+114,118,Water,Gate access issue,2026-10-01,In Progress,Electrician,,,C,46.0,True
+115,95,Cleanliness,Gate access issue,2026-05-06,Open,Maintenance Team,,,B,194.0,True
+116,75,Water,Waste collection delayed,2026-03-04,Resolved,Electrician,2026-03-22,18.0,B,18.0,True
+117,155,Plumbing,Waste collection delayed,2026-04-27,Resolved,Plumber,2026-05-01,4.0,D,4.0,False
+118,161,Plumbing,Low water pressure,2026-06-26,Resolved,Maintenance Team,2026-07-13,17.0,D,17.0,True
+119,76,Other,Corridor light not working,2026-09-11,In Progress,Electrician,,,B,66.0,True
+120,15,Cleanliness,Gate access issue,2026-10-10,Open,Admin,,,A,37.0,True
+121,21,Lift,Lift maintenance request,2026-01-17,Resolved,Maintenance Team,2026-01-22,5.0,A,5.0,False
+122,101,Lift,Low water pressure,2026-10-03,Resolved,Maintenance Team,2026-10-17,14.0,C,14.0,True
+123,76,Lift,Pipe leakage,2026-06-30,In Progress,Plumber,,,B,139.0,True
+124,125,Electrical,Pipe leakage,2026-01-19,Resolved,Electrician,2026-01-23,4.0,C,4.0,False
+125,144,Water,Lift maintenance request,2026-10-31,Resolved,Maintenance Team,2026-11-16,16.0,C,16.0,True
+126,9,Cleanliness,Pipe leakage,2026-04-17,In Progress,Maintenance Team,,,A,213.0,True
+127,1,Other,Low water pressure,2026-04-11,In Progress,Electrician,,,A,219.0,True
+128,144,Water,Common area repair,2026-08-13,Resolved,Electrician,2026-08-28,15.0,C,15.0,True
+129,160,Water,Waste collection delayed,2026-05-09,In Progress,Admin,,,D,191.0,True
+130,10,Cleanliness,Low water pressure,2026-10-03,Resolved,Maintenance Team,2026-10-10,7.0,A,7.0,False
+131,37,Other,Pipe leakage,2026-06-24,Resolved,Plumber,2026-07-02,8.0,A,8.0,True
+132,42,Cleanliness,Gate access issue,2026-04-23,Resolved,Admin,2026-04-27,4.0,A,4.0,False
+133,101,Other,Corridor light not working,2026-04-04,Open,Plumber,,,C,226.0,True
+134,73,Cleanliness,Waste collection delayed,2026-07-20,In Progress,Admin,,,B,119.0,True
+135,22,Cleanliness,Lift maintenance request,2026-11-11,In Progress,Electrician,,,A,5.0,False
+136,145,Other,Lift maintenance request,2026-02-04,Open,Electrician,,,C,285.0,True
+137,127,Water,Common area repair,2026-09-10,In Progress,Maintenance Team,,,C,67.0,True
+138,83,Plumbing,Gate access issue,2026-03-23,Resolved,Admin,2026-03-31,8.0,B,8.0,True
+139,37,Plumbing,Lift maintenance request,2026-02-25,Resolved,Plumber,2026-02-27,2.0,A,2.0,False
+140,126,Electrical,Lift maintenance request,2026-04-18,Resolved,Admin,2026-04-27,9.0,C,9.0,True
+141,82,Security,Gate access issue,2026-03-15,Resolved,Electrician,2026-03-23,8.0,B,8.0,True
+142,34,Lift,Pipe leakage,2026-07-25,Open,Admin,,,A,114.0,True
+143,19,Lift,Corridor light not working,2025-12-18,Open,Maintenance Team,,,A,333.0,True
+144,66,Cleanliness,Waste collection delayed,2026-06-21,Resolved,Admin,2026-07-09,18.0,B,18.0,True
+145,36,Lift,Waste collection delayed,2026-06-28,Open,Plumber,,,A,141.0,True
+146,22,Plumbing,Common area repair,2026-11-12,Resolved,Plumber,2026-11-14,2.0,A,2.0,False
+147,160,Electrical,Gate access issue,2026-08-19,Resolved,Maintenance Team,2026-08-23,4.0,D,4.0,False
+148,89,Water,Low water pressure,2026-08-20,Resolved,Electrician,2026-08-27,7.0,B,7.0,False
+149,166,Security,Common area repair,2026-09-20,Open,Plumber,,,D,57.0,True
+150,193,Electrical,Lift maintenance request,2026-03-04,Resolved,Maintenance Team,2026-03-19,15.0,D,15.0,True
+151,148,Security,Lift maintenance request,2025-12-20,Resolved,Electrician,2025-12-31,11.0,C,11.0,True
+152,47,Water,Low water pressure,2026-04-18,Resolved,Electrician,2026-04-29,11.0,A,11.0,True
+153,94,Electrical,Corridor light not working,2026-09-17,Resolved,Maintenance Team,2026-09-25,8.0,B,8.0,True
+154,95,Other,Lift maintenance request,2026-07-28,Open,Electrician,,,B,111.0,True
+155,190,Water,Lift maintenance request,2026-04-06,Open,Electrician,,,D,224.0,True
+156,100,Lift,Pipe leakage,2026-08-16,Resolved,Electrician,2026-08-23,7.0,B,7.0,False
+157,17,Lift,Gate access issue,2025-11-23,In Progress,Electrician,,,A,358.0,True
+158,38,Plumbing,Low water pressure,2026-02-22,Open,Maintenance Team,,,A,267.0,True
+159,3,Water,Pipe leakage,2026-04-10,Resolved,Admin,2026-04-16,6.0,A,6.0,False
+160,118,Plumbing,Waste collection delayed,2026-11-09,Resolved,Maintenance Team,2026-11-16,7.0,C,7.0,False
+161,121,Plumbing,Lift maintenance request,2026-10-20,Resolved,Maintenance Team,2026-10-23,3.0,C,3.0,False
+162,122,Other,Gate access issue,2025-12-19,Resolved,Maintenance Team,2025-12-29,10.0,C,10.0,True
+163,12,Plumbing,Common area repair,2026-08-22,In Progress,Electrician,,,A,86.0,True
+164,58,Other,Low water pressure,2026-04-07,Open,Plumber,,,B,223.0,True
+165,37,Water,Corridor light not working,2026-07-15,In Progress,Plumber,,,A,124.0,True
+166,51,Cleanliness,Corridor light not working,2026-01-07,Resolved,Maintenance Team,2026-01-18,11.0,B,11.0,True
+167,109,Electrical,Common area repair,2026-02-22,Resolved,Plumber,2026-02-23,1.0,C,1.0,False
+168,194,Cleanliness,Gate access issue,2026-08-20,Open,Electrician,,,D,88.0,True
+169,40,Other,Waste collection delayed,2026-01-23,Open,Electrician,,,A,297.0,True
+170,101,Water,Common area repair,2026-07-16,Open,Maintenance Team,,,C,123.0,True
+171,164,Water,Common area repair,2026-06-17,Open,Plumber,,,D,152.0,True
+172,75,Water,Lift maintenance request,2026-04-29,Open,Maintenance Team,,,B,201.0,True
+173,106,Electrical,Waste collection delayed,2026-07-12,Resolved,Maintenance Team,2026-07-25,13.0,C,13.0,True
+174,137,Electrical,Lift maintenance request,2026-01-07,Resolved,Admin,2026-01-10,3.0,C,3.0,False
+175,35,Lift,Corridor light not working,2025-12-20,Resolved,Maintenance Team,2025-12-25,5.0,A,5.0,False
+176,90,Lift,Gate access issue,2026-10-25,Open,Maintenance Team,,,B,22.0,True
+177,129,Electrical,Waste collection delayed,2026-07-24,Resolved,Plumber,2026-08-04,11.0,C,11.0,True
+178,121,Electrical,Common area repair,2026-11-14,Resolved,Maintenance Team,2026-11-16,2.0,C,2.0,False
+179,128,Water,Pipe leakage,2026-01-08,In Progress,Electrician,,,C,312.0,True
+180,82,Plumbing,Corridor light not working,2026-04-03,Resolved,Maintenance Team,2026-04-04,1.0,B,1.0,False
+181,146,Water,Common area repair,2026-04-19,Resolved,Admin,2026-04-27,8.0,C,8.0,True
+182,184,Electrical,Gate access issue,2026-02-15,Resolved,Plumber,2026-02-20,5.0,D,5.0,False
+183,140,Water,Common area repair,2026-10-30,Resolved,Maintenance Team,2026-11-12,13.0,C,13.0,True
+184,90,Water,Pipe leakage,2025-12-03,Resolved,Admin,2025-12-17,14.0,B,14.0,True
+185,79,Lift,Corridor light not working,2026-07-19,Open,Maintenance Team,,,B,120.0,True
+186,3,Electrical,Gate access issue,2026-03-13,Resolved,Maintenance Team,2026-03-23,10.0,A,10.0,True
+187,55,Lift,Corridor light not working,2026-02-23,In Progress,Maintenance Team,,,B,266.0,True
+188,139,Cleanliness,Low water pressure,2026-09-27,Resolved,Electrician,2026-10-04,7.0,C,7.0,False
+189,149,Security,Lift maintenance request,2026-04-22,Resolved,Electrician,2026-04-30,8.0,C,8.0,True
+190,51,Cleanliness,Corridor light not working,2026-07-02,Resolved,Plumber,2026-07-12,10.0,B,10.0,True
+191,17,Water,Waste collection delayed,2026-11-11,Resolved,Admin,2026-11-16,5.0,A,5.0,False
+192,15,Cleanliness,Corridor light not working,2026-09-09,In Progress,Maintenance Team,,,A,68.0,True
+193,83,Electrical,Pipe leakage,2026-04-07,Resolved,Electrician,2026-04-08,1.0,B,1.0,False
+194,142,Security,Common area repair,2026-01-06,Resolved,Admin,2026-01-21,15.0,C,15.0,True
+195,75,Other,Gate access issue,2026-01-08,Resolved,Admin,2026-01-14,6.0,B,6.0,False
+196,78,Other,Common area repair,2026-02-25,In Progress,Electrician,,,B,264.0,True
+197,155,Other,Low water pressure,2026-02-22,Open,Maintenance Team,,,D,267.0,True
+198,97,Plumbing,Common area repair,2026-07-18,In Progress,Plumber,,,B,121.0,True
+199,145,Cleanliness,Corridor light not working,2026-09-05,Open,Admin,,,C,72.0,True
+200,1,Security,Corridor light not working,2026-10-03,Resolved,Electrician,2026-10-16,13.0,A,13.0,True
+201,185,Cleanliness,Corridor light not working,2025-12-21,Resolved,Admin,2025-12-25,4.0,D,4.0,False
+202,121,Lift,Waste collection delayed,2026-10-06,Resolved,Electrician,2026-10-23,17.0,C,17.0,True
+203,75,Lift,Corridor light not working,2025-12-19,Resolved,Admin,2025-12-20,1.0,B,1.0,False
+204,109,Plumbing,Low water pressure,2026-01-28,Open,Plumber,,,C,292.0,True
+205,148,Cleanliness,Gate access issue,2026-07-15,In Progress,Admin,,,C,124.0,True
+206,107,Plumbing,Gate access issue,2026-09-14,Resolved,Plumber,2026-10-02,18.0,C,18.0,True
+207,38,Other,Corridor light not working,2026-08-01,Resolved,Admin,2026-08-17,16.0,A,16.0,True
+208,110,Lift,Gate access issue,2026-08-16,Resolved,Admin,2026-08-31,15.0,C,15.0,True
+209,80,Other,Common area repair,2026-05-29,In Progress,Plumber,,,B,171.0,True
+210,146,Lift,Common area repair,2026-10-17,In Progress,Maintenance Team,,,C,30.0,True
+211,67,Plumbing,Gate access issue,2026-09-15,Resolved,Maintenance Team,2026-09-27,12.0,B,12.0,True
+212,107,Security,Lift maintenance request,2026-07-18,In Progress,Plumber,,,C,121.0,True
+213,38,Other,Lift maintenance request,2025-11-29,Open,Maintenance Team,,,A,352.0,True
+214,163,Cleanliness,Gate access issue,2026-01-20,Resolved,Admin,2026-02-02,13.0,D,13.0,True
+215,20,Lift,Corridor light not working,2026-01-11,Resolved,Electrician,2026-01-19,8.0,A,8.0,True
+216,104,Security,Pipe leakage,2026-04-12,In Progress,Maintenance Team,,,C,218.0,True
+217,2,Plumbing,Waste collection delayed,2026-07-01,Resolved,Electrician,2026-07-07,6.0,A,6.0,False
+218,144,Water,Waste collection delayed,2026-06-03,Resolved,Admin,2026-06-16,13.0,C,13.0,True
+219,113,Cleanliness,Corridor light not working,2026-08-24,Resolved,Electrician,2026-08-25,1.0,C,1.0,False
+220,125,Electrical,Low water pressure,2026-05-01,In Progress,Admin,,,C,199.0,True
+221,174,Water,Pipe leakage,2026-06-29,Resolved,Maintenance Team,2026-07-17,18.0,D,18.0,True
+222,155,Electrical,Pipe leakage,2026-06-26,Open,Maintenance Team,,,D,143.0,True
+223,147,Plumbing,Waste collection delayed,2026-03-04,Resolved,Maintenance Team,2026-03-10,6.0,C,6.0,False
+224,121,Plumbing,Low water pressure,2026-07-12,Open,Electrician,,,C,127.0,True
+225,79,Security,Lift maintenance request,2026-08-18,In Progress,Electrician,,,B,90.0,True
+226,132,Plumbing,Corridor light not working,2026-02-02,Resolved,Electrician,2026-02-05,3.0,C,3.0,False
+227,136,Plumbing,Waste collection delayed,2026-06-21,Resolved,Plumber,2026-06-24,3.0,C,3.0,False
+228,24,Electrical,Corridor light not working,2026-06-22,In Progress,Plumber,,,A,147.0,True
+229,8,Electrical,Pipe leakage,2026-11-13,Resolved,Plumber,2026-11-16,3.0,A,3.0,False
+230,36,Lift,Pipe leakage,2026-10-26,In Progress,Plumber,,,A,21.0,True
+231,18,Cleanliness,Gate access issue,2025-11-22,In Progress,Plumber,,,A,359.0,True
+232,92,Plumbing,Lift maintenance request,2026-08-31,Resolved,Maintenance Team,2026-09-03,3.0,B,3.0,False
+233,30,Security,Corridor light not working,2026-08-18,In Progress,Plumber,,,A,90.0,True
+234,197,Cleanliness,Low water pressure,2025-11-26,Resolved,Admin,2025-12-08,12.0,D,12.0,True
+235,8,Security,Low water pressure,2026-09-11,Resolved,Plumber,2026-09-22,11.0,A,11.0,True
+236,122,Plumbing,Corridor light not working,2026-09-20,Resolved,Admin,2026-10-07,17.0,C,17.0,True
+237,12,Lift,Low water pressure,2026-06-17,Resolved,Electrician,2026-06-25,8.0,A,8.0,True
+238,182,Security,Waste collection delayed,2026-03-08,Open,Maintenance Team,,,D,253.0,True
+239,40,Water,Waste collection delayed,2026-08-13,In Progress,Electrician,,,A,95.0,True
+240,132,Cleanliness,Common area repair,2026-03-11,Resolved,Maintenance Team,2026-03-17,6.0,C,6.0,False
+241,41,Electrical,Common area repair,2026-10-04,Resolved,Maintenance Team,2026-10-08,4.0,A,4.0,False
+242,123,Electrical,Pipe leakage,2026-04-02,In Progress,Admin,,,C,228.0,True
+243,76,Lift,Gate access issue,2025-11-30,Resolved,Electrician,2025-12-10,10.0,B,10.0,True
+244,164,Electrical,Low water pressure,2026-01-15,In Progress,Electrician,,,D,305.0,True
+245,199,Plumbing,Common area repair,2026-05-27,Resolved,Maintenance Team,2026-06-06,10.0,D,10.0,True
+246,72,Lift,Low water pressure,2026-09-30,Resolved,Admin,2026-10-08,8.0,B,8.0,True
+247,151,Cleanliness,Common area repair,2025-11-25,Resolved,Plumber,2025-11-28,3.0,D,3.0,False
+248,30,Security,Gate access issue,2026-10-28,Open,Maintenance Team,,,A,19.0,True
+249,114,Security,Corridor light not working,2025-12-22,Resolved,Maintenance Team,2026-01-03,12.0,C,12.0,True
+250,195,Lift,Low water pressure,2026-07-06,In Progress,Electrician,,,D,133.0,True
+251,54,Other,Gate access issue,2026-04-29,Resolved,Maintenance Team,2026-05-01,2.0,B,2.0,False
+252,126,Cleanliness,Low water pressure,2026-08-08,Resolved,Maintenance Team,2026-08-16,8.0,C,8.0,True
+253,142,Electrical,Common area repair,2026-08-25,Resolved,Maintenance Team,2026-08-31,6.0,C,6.0,False
+254,111,Electrical,Low water pressure,2026-06-24,Resolved,Maintenance Team,2026-07-11,17.0,C,17.0,True
+255,165,Electrical,Pipe leakage,2026-04-06,Resolved,Admin,2026-04-16,10.0,D,10.0,True
+256,13,Cleanliness,Corridor light not working,2025-12-13,Resolved,Plumber,2025-12-22,9.0,A,9.0,True
+257,117,Other,Corridor light not working,2026-08-02,Resolved,Maintenance Team,2026-08-11,9.0,C,9.0,True
+258,59,Plumbing,Pipe leakage,2026-02-12,In Progress,Plumber,,,B,277.0,True
+259,112,Plumbing,Corridor light not working,2025-11-29,Open,Admin,,,C,352.0,True
+260,28,Electrical,Waste collection delayed,2025-12-29,Open,Plumber,,,A,322.0,True
+261,134,Other,Pipe leakage,2026-04-09,Resolved,Plumber,2026-04-19,10.0,C,10.0,True
+262,114,Other,Lift maintenance request,2026-01-11,Resolved,Admin,2026-01-29,18.0,C,18.0,True
+263,172,Cleanliness,Waste collection delayed,2026-02-25,Open,Admin,,,D,264.0,True
+264,47,Water,Corridor light not working,2026-05-23,Open,Electrician,,,A,177.0,True
+265,83,Security,Gate access issue,2026-06-16,Open,Maintenance Team,,,B,153.0,True
+266,106,Other,Pipe leakage,2026-01-12,Open,Admin,,,C,308.0,True
+267,103,Other,Waste collection delayed,2026-06-30,Resolved,Electrician,2026-07-02,2.0,C,2.0,False
+268,63,Security,Corridor light not working,2026-01-19,Open,Admin,,,B,301.0,True
+269,102,Cleanliness,Corridor light not working,2026-04-12,Resolved,Maintenance Team,2026-04-21,9.0,C,9.0,True
+270,37,Other,Gate access issue,2026-05-17,Open,Admin,,,A,183.0,True
+271,2,Lift,Low water pressure,2026-02-18,In Progress,Plumber,,,A,271.0,True
+272,11,Water,Low water pressure,2025-12-11,Resolved,Plumber,2025-12-18,7.0,A,7.0,False
+273,176,Other,Pipe leakage,2026-04-20,Open,Admin,,,D,210.0,True
+274,24,Other,Corridor light not working,2026-08-07,Resolved,Plumber,2026-08-11,4.0,A,4.0,False
+275,71,Cleanliness,Pipe leakage,2026-10-28,Resolved,Maintenance Team,2026-11-03,6.0,B,6.0,False
+276,30,Cleanliness,Corridor light not working,2026-06-23,Resolved,Plumber,2026-07-03,10.0,A,10.0,True
+277,29,Water,Waste collection delayed,2026-08-04,Resolved,Plumber,2026-08-19,15.0,A,15.0,True
+278,84,Security,Waste collection delayed,2026-08-12,Resolved,Maintenance Team,2026-08-24,12.0,B,12.0,True
+279,42,Lift,Pipe leakage,2026-11-14,Resolved,Plumber,2026-11-16,2.0,A,2.0,False
+280,156,Security,Lift maintenance request,2026-08-23,Open,Electrician,,,D,85.0,True
+281,190,Security,Common area repair,2025-12-15,Resolved,Plumber,2026-01-01,17.0,D,17.0,True
+282,40,Security,Waste collection delayed,2026-03-23,Open,Electrician,,,A,238.0,True
+283,78,Lift,Lift maintenance request,2026-01-01,Open,Electrician,,,B,319.0,True
+284,9,Lift,Waste collection delayed,2026-03-29,Resolved,Maintenance Team,2026-04-15,17.0,A,17.0,True
+285,30,Lift,Lift maintenance request,2026-03-20,Resolved,Admin,2026-03-31,11.0,A,11.0,True
+286,72,Plumbing,Low water pressure,2026-03-09,Open,Plumber,,,B,252.0,True
+287,91,Security,Lift maintenance request,2026-10-21,Resolved,Maintenance Team,2026-11-08,18.0,B,18.0,True
+288,158,Electrical,Low water pressure,2026-03-03,Resolved,Plumber,2026-03-04,1.0,D,1.0,False
+289,171,Security,Lift maintenance request,2026-08-16,Resolved,Plumber,2026-08-23,7.0,D,7.0,False
+290,65,Cleanliness,Lift maintenance request,2025-12-20,Open,Admin,,,B,331.0,True
+291,97,Water,Pipe leakage,2026-04-07,Resolved,Plumber,2026-04-25,18.0,B,18.0,True
+292,69,Electrical,Gate access issue,2026-09-22,Resolved,Maintenance Team,2026-09-29,7.0,B,7.0,False
+293,129,Plumbing,Low water pressure,2026-09-24,Open,Electrician,,,C,53.0,True
+294,137,Lift,Pipe leakage,2026-08-24,Resolved,Maintenance Team,2026-09-08,15.0,C,15.0,True
+295,161,Cleanliness,Gate access issue,2026-07-06,Resolved,Plumber,2026-07-10,4.0,D,4.0,False
+296,180,Water,Low water pressure,2026-02-02,Resolved,Admin,2026-02-08,6.0,D,6.0,False
+297,182,Cleanliness,Low water pressure,2025-12-16,Resolved,Electrician,2026-01-02,17.0,D,17.0,True
+298,59,Security,Low water pressure,2026-06-09,Resolved,Maintenance Team,2026-06-21,12.0,B,12.0,True
+299,126,Electrical,Corridor light not working,2026-08-26,Resolved,Maintenance Team,2026-09-10,15.0,C,15.0,True
+300,88,Security,Common area repair,2026-08-22,Open,Electrician,,,B,86.0,True
+301,142,Electrical,Pipe leakage,2026-01-30,Open,Maintenance Team,,,C,290.0,True
+302,20,Cleanliness,Common area repair,2026-05-18,Open,Plumber,,,A,182.0,True
+303,64,Lift,Corridor light not working,2026-09-18,Resolved,Admin,2026-09-24,6.0,B,6.0,False
+304,20,Lift,Low water pressure,2026-11-16,Resolved,Admin,2026-11-16,0.0,A,0.0,False
+305,193,Electrical,Common area repair,2026-01-15,Resolved,Plumber,2026-01-26,11.0,D,11.0,True
+306,14,Security,Pipe leakage,2026-07-27,Resolved,Plumber,2026-08-13,17.0,A,17.0,True
+307,122,Other,Low water pressure,2026-03-23,Open,Admin,,,C,238.0,True
+308,71,Plumbing,Gate access issue,2026-01-29,Resolved,Maintenance Team,2026-02-02,4.0,B,4.0,False
+309,2,Electrical,Common area repair,2026-08-25,In Progress,Electrician,,,A,83.0,True
+310,199,Electrical,Pipe leakage,2026-07-09,Resolved,Plumber,2026-07-25,16.0,D,16.0,True
+311,199,Cleanliness,Common area repair,2026-07-21,Resolved,Electrician,2026-07-29,8.0,D,8.0,True
+312,95,Security,Gate access issue,2026-05-12,Open,Plumber,,,B,188.0,True
+313,17,Other,Lift maintenance request,2026-08-02,In Progress,Electrician,,,A,106.0,True
+314,144,Security,Gate access issue,2025-12-03,Resolved,Maintenance Team,2025-12-06,3.0,C,3.0,False
+315,94,Cleanliness,Waste collection delayed,2026-09-05,Resolved,Electrician,2026-09-11,6.0,B,6.0,False
+316,145,Lift,Low water pressure,2026-05-20,Resolved,Admin,2026-05-28,8.0,C,8.0,True
+317,15,Security,Gate access issue,2026-10-14,Resolved,Maintenance Team,2026-10-15,1.0,A,1.0,False
+318,124,Security,Gate access issue,2026-07-29,Resolved,Electrician,2026-08-04,6.0,C,6.0,False
+319,101,Security,Gate access issue,2026-01-19,Open,Maintenance Team,,,C,301.0,True
+320,111,Water,Common area repair,2025-12-08,Resolved,Maintenance Team,2025-12-25,17.0,C,17.0,True
+321,184,Plumbing,Pipe leakage,2026-05-05,In Progress,Maintenance Team,,,D,195.0,True
+322,168,Lift,Waste collection delayed,2026-05-22,Resolved,Admin,2026-06-01,10.0,D,10.0,True
+323,9,Lift,Waste collection delayed,2026-08-05,In Progress,Plumber,,,A,103.0,True
+324,138,Electrical,Low water pressure,2026-01-12,Open,Maintenance Team,,,C,308.0,True
+325,37,Other,Gate access issue,2026-03-10,Resolved,Electrician,2026-03-22,12.0,A,12.0,True
+326,64,Plumbing,Corridor light not working,2026-06-03,Resolved,Plumber,2026-06-05,2.0,B,2.0,False
+327,144,Plumbing,Corridor light not working,2026-02-11,Resolved,Electrician,2026-02-21,10.0,C,10.0,True
+328,173,Other,Waste collection delayed,2026-06-09,Open,Maintenance Team,,,D,160.0,True
+329,154,Security,Common area repair,2026-01-20,Open,Electrician,,,D,300.0,True
+330,88,Electrical,Lift maintenance request,2026-03-31,Open,Admin,,,B,230.0,True
+331,73,Lift,Corridor light not working,2026-08-31,Open,Plumber,,,B,77.0,True
+332,80,Electrical,Waste collection delayed,2026-11-05,Resolved,Maintenance Team,2026-11-11,6.0,B,6.0,False
+333,96,Electrical,Corridor light not working,2026-02-10,Resolved,Admin,2026-02-12,2.0,B,2.0,False
+334,145,Cleanliness,Gate access issue,2026-08-24,Open,Plumber,,,C,84.0,True
+335,102,Other,Gate access issue,2026-07-04,Resolved,Electrician,2026-07-17,13.0,C,13.0,True
+336,20,Security,Common area repair,2026-05-14,Open,Electrician,,,A,186.0,True
+337,114,Other,Waste collection delayed,2025-12-09,Resolved,Electrician,2025-12-11,2.0,C,2.0,False
+338,177,Other,Corridor light not working,2026-02-09,Open,Electrician,,,D,280.0,True
+339,49,Other,Gate access issue,2026-07-14,In Progress,Admin,,,A,125.0,True
+340,194,Water,Low water pressure,2026-11-04,Open,Electrician,,,D,12.0,True
+341,140,Other,Common area repair,2026-08-08,In Progress,Plumber,,,C,100.0,True
+342,171,Plumbing,Corridor light not working,2026-05-19,Resolved,Admin,2026-06-01,13.0,D,13.0,True
+343,2,Electrical,Waste collection delayed,2026-06-26,In Progress,Maintenance Team,,,A,143.0,True
+344,123,Security,Low water pressure,2026-05-28,Resolved,Maintenance Team,2026-05-29,1.0,C,1.0,False
+345,51,Lift,Gate access issue,2025-12-02,Resolved,Admin,2025-12-05,3.0,B,3.0,False
+346,12,Other,Waste collection delayed,2026-06-16,Resolved,Electrician,2026-06-20,4.0,A,4.0,False
+347,25,Water,Common area repair,2026-11-06,Resolved,Electrician,2026-11-16,10.0,A,10.0,True
+348,54,Plumbing,Waste collection delayed,2026-01-04,In Progress,Maintenance Team,,,B,316.0,True
+349,195,Water,Low water pressure,2026-05-27,In Progress,Admin,,,D,173.0,True
+350,148,Other,Waste collection delayed,2026-06-26,Resolved,Plumber,2026-06-29,3.0,C,3.0,False
+351,68,Plumbing,Waste collection delayed,2025-11-30,Open,Admin,,,B,351.0,True
+352,21,Security,Low water pressure,2026-08-09,Resolved,Admin,2026-08-19,10.0,A,10.0,True
+353,32,Plumbing,Corridor light not working,2025-12-29,Open,Plumber,,,A,322.0,True
+354,10,Electrical,Common area repair,2026-04-10,Resolved,Plumber,2026-04-17,7.0,A,7.0,False
+355,141,Security,Pipe leakage,2026-03-22,Open,Plumber,,,C,239.0,True
+356,72,Security,Common area repair,2025-12-27,In Progress,Plumber,,,B,324.0,True
+357,118,Security,Pipe leakage,2026-02-02,Resolved,Maintenance Team,2026-02-06,4.0,C,4.0,False
+358,78,Lift,Low water pressure,2025-12-06,Resolved,Maintenance Team,2025-12-19,13.0,B,13.0,True
+359,121,Security,Waste collection delayed,2026-05-11,In Progress,Plumber,,,C,189.0,True
+360,138,Plumbing,Corridor light not working,2026-11-04,Resolved,Plumber,2026-11-13,9.0,C,9.0,True
+361,139,Water,Pipe leakage,2026-01-05,Resolved,Maintenance Team,2026-01-09,4.0,C,4.0,False
+362,1,Water,Corridor light not working,2026-09-28,In Progress,Maintenance Team,,,A,49.0,True
+363,178,Other,Low water pressure,2026-07-25,Resolved,Maintenance Team,2026-07-26,1.0,D,1.0,False
+364,131,Water,Corridor light not working,2026-01-12,Resolved,Electrician,2026-01-22,10.0,C,10.0,True
+365,84,Lift,Gate access issue,2026-05-28,Resolved,Maintenance Team,2026-06-13,16.0,B,16.0,True
+366,96,Cleanliness,Waste collection delayed,2026-05-15,Open,Admin,,,B,185.0,True
+367,155,Lift,Waste collection delayed,2026-03-24,Resolved,Maintenance Team,2026-04-05,12.0,D,12.0,True
+368,165,Other,Lift maintenance request,2026-04-15,Open,Maintenance Team,,,D,215.0,True
+369,163,Cleanliness,Gate access issue,2026-03-13,In Progress,Maintenance Team,,,D,248.0,True
+370,137,Security,Low water pressure,2026-02-24,In Progress,Plumber,,,C,265.0,True
+371,44,Lift,Low water pressure,2026-05-18,Open,Plumber,,,A,182.0,True
+372,74,Security,Corridor light not working,2026-02-19,In Progress,Electrician,,,B,270.0,True
+373,106,Other,Low water pressure,2025-11-23,In Progress,Maintenance Team,,,C,358.0,True
+374,100,Lift,Corridor light not working,2026-10-05,In Progress,Plumber,,,B,42.0,True
+375,79,Other,Gate access issue,2026-05-02,Resolved,Maintenance Team,2026-05-08,6.0,B,6.0,False
+376,173,Plumbing,Corridor light not working,2026-01-12,Resolved,Admin,2026-01-13,1.0,D,1.0,False
+377,128,Lift,Gate access issue,2026-10-05,Resolved,Admin,2026-10-15,10.0,C,10.0,True
+378,59,Water,Lift maintenance request,2025-12-22,Resolved,Electrician,2026-01-03,12.0,B,12.0,True
+379,154,Plumbing,Corridor light not working,2026-11-01,Resolved,Electrician,2026-11-16,15.0,D,15.0,True
+380,45,Security,Lift maintenance request,2026-08-06,Open,Plumber,,,A,102.0,True
+381,159,Cleanliness,Pipe leakage,2026-11-12,Resolved,Maintenance Team,2026-11-16,4.0,D,4.0,False
+382,115,Security,Waste collection delayed,2026-01-05,Resolved,Plumber,2026-01-23,18.0,C,18.0,True
+383,44,Plumbing,Pipe leakage,2026-01-18,Open,Admin,,,A,302.0,True
+384,55,Plumbing,Lift maintenance request,2026-05-18,Resolved,Admin,2026-06-02,15.0,B,15.0,True
+385,20,Security,Low water pressure,2026-02-19,Resolved,Electrician,2026-02-22,3.0,A,3.0,False
+386,66,Security,Corridor light not working,2026-09-20,In Progress,Electrician,,,B,57.0,True
+387,4,Plumbing,Corridor light not working,2026-07-20,Resolved,Admin,2026-07-25,5.0,A,5.0,False
+388,5,Electrical,Gate access issue,2026-02-08,Resolved,Admin,2026-02-22,14.0,A,14.0,True
+389,186,Cleanliness,Corridor light not working,2026-01-04,Open,Admin,,,D,316.0,True
+390,86,Security,Pipe leakage,2026-04-26,Open,Electrician,,,B,204.0,True
+391,154,Security,Pipe leakage,2026-05-09,Open,Plumber,,,D,191.0,True
+392,133,Water,Low water pressure,2026-06-24,In Progress,Electrician,,,C,145.0,True
+393,137,Water,Corridor light not working,2025-12-07,In Progress,Admin,,,C,344.0,True
+394,128,Plumbing,Common area repair,2026-10-15,Open,Maintenance Team,,,C,32.0,True
+395,8,Lift,Lift maintenance request,2026-07-19,Open,Plumber,,,A,120.0,True
+396,55,Security,Lift maintenance request,2026-04-10,Resolved,Maintenance Team,2026-04-14,4.0,B,4.0,False
+397,198,Cleanliness,Pipe leakage,2026-11-10,Resolved,Electrician,2026-11-16,6.0,D,6.0,False
+398,174,Electrical,Gate access issue,2026-02-03,Open,Electrician,,,D,286.0,True
+399,152,Security,Low water pressure,2026-06-02,Resolved,Maintenance Team,2026-06-09,7.0,D,7.0,False
+400,166,Other,Low water pressure,2025-12-28,Open,Electrician,,,D,323.0,True
+401,156,Lift,Waste collection delayed,2025-12-13,Open,Maintenance Team,,,D,338.0,True
+402,186,Electrical,Corridor light not working,2025-12-30,In Progress,Plumber,,,D,321.0,True
+403,69,Other,Lift maintenance request,2026-07-10,In Progress,Electrician,,,B,129.0,True
+404,165,Lift,Waste collection delayed,2026-06-09,In Progress,Electrician,,,D,160.0,True
+405,200,Other,Waste collection delayed,2026-08-24,Resolved,Maintenance Team,2026-09-09,16.0,D,16.0,True
+406,97,Security,Waste collection delayed,2026-05-13,Open,Plumber,,,B,187.0,True
+407,31,Other,Gate access issue,2026-11-04,Resolved,Electrician,2026-11-09,5.0,A,5.0,False
+408,70,Lift,Low water pressure,2026-01-14,Open,Electrician,,,B,306.0,True
+409,173,Electrical,Waste collection delayed,2026-05-19,Resolved,Maintenance Team,2026-06-05,17.0,D,17.0,True
+410,56,Cleanliness,Corridor light not working,2026-06-12,Resolved,Plumber,2026-06-21,9.0,B,9.0,True
+411,101,Lift,Common area repair,2026-07-10,Resolved,Admin,2026-07-23,13.0,C,13.0,True
+412,61,Security,Lift maintenance request,2026-03-04,Open,Electrician,,,B,257.0,True
+413,124,Water,Waste collection delayed,2026-10-01,In Progress,Electrician,,,C,46.0,True
+414,34,Electrical,Corridor light not working,2026-04-07,Resolved,Admin,2026-04-15,8.0,A,8.0,True
+415,170,Cleanliness,Lift maintenance request,2026-02-01,Resolved,Admin,2026-02-19,18.0,D,18.0,True
+416,88,Water,Gate access issue,2026-05-09,Resolved,Electrician,2026-05-27,18.0,B,18.0,True
+417,131,Other,Common area repair,2026-02-16,In Progress,Admin,,,C,273.0,True
+418,143,Lift,Pipe leakage,2026-03-30,Open,Maintenance Team,,,C,231.0,True
+419,74,Plumbing,Corridor light not working,2026-01-27,Open,Maintenance Team,,,B,293.0,True
+420,141,Plumbing,Waste collection delayed,2026-08-08,Resolved,Electrician,2026-08-14,6.0,C,6.0,False
+421,56,Electrical,Lift maintenance request,2026-10-11,Open,Electrician,,,B,36.0,True
+422,133,Cleanliness,Waste collection delayed,2026-08-28,In Progress,Maintenance Team,,,C,80.0,True
+423,2,Plumbing,Lift maintenance request,2026-02-08,Resolved,Plumber,2026-02-09,1.0,A,1.0,False
+424,71,Cleanliness,Common area repair,2026-03-08,Open,Admin,,,B,253.0,True
+425,14,Other,Waste collection delayed,2025-12-10,Resolved,Admin,2025-12-26,16.0,A,16.0,True
+426,52,Electrical,Common area repair,2026-07-07,Resolved,Electrician,2026-07-18,11.0,B,11.0,True
+427,64,Water,Waste collection delayed,2025-12-05,Open,Electrician,,,B,346.0,True
+428,164,Security,Common area repair,2026-02-20,In Progress,Admin,,,D,269.0,True
+429,44,Lift,Pipe leakage,2026-09-21,In Progress,Admin,,,A,56.0,True
+430,52,Other,Gate access issue,2026-01-13,Open,Admin,,,B,307.0,True
+431,66,Plumbing,Corridor light not working,2026-07-08,Open,Admin,,,B,131.0,True
+432,68,Electrical,Common area repair,2026-04-27,Resolved,Maintenance Team,2026-05-11,14.0,B,14.0,True
+433,14,Cleanliness,Low water pressure,2025-11-24,Resolved,Maintenance Team,2025-12-02,8.0,A,8.0,True
+434,163,Cleanliness,Pipe leakage,2026-04-08,Resolved,Plumber,2026-04-16,8.0,D,8.0,True
+435,33,Water,Low water pressure,2026-09-23,In Progress,Electrician,,,A,54.0,True
+436,65,Water,Common area repair,2026-07-27,Resolved,Plumber,2026-07-30,3.0,B,3.0,False
+437,76,Security,Common area repair,2026-10-13,Resolved,Plumber,2026-10-16,3.0,B,3.0,False
+438,69,Plumbing,Common area repair,2026-06-21,Resolved,Electrician,2026-07-03,12.0,B,12.0,True
+439,6,Lift,Corridor light not working,2026-10-14,Resolved,Plumber,2026-10-30,16.0,A,16.0,True
+440,164,Lift,Low water pressure,2026-01-16,Resolved,Maintenance Team,2026-01-22,6.0,D,6.0,False
+441,122,Water,Pipe leakage,2025-12-24,Resolved,Admin,2026-01-10,17.0,C,17.0,True
+442,67,Security,Corridor light not working,2026-02-23,Resolved,Maintenance Team,2026-03-05,10.0,B,10.0,True
+443,37,Cleanliness,Low water pressure,2025-12-05,Resolved,Maintenance Team,2025-12-15,10.0,A,10.0,True
+444,76,Cleanliness,Pipe leakage,2026-02-24,Resolved,Admin,2026-03-01,5.0,B,5.0,False
+445,133,Lift,Pipe leakage,2026-04-25,In Progress,Maintenance Team,,,C,205.0,True
+446,152,Water,Pipe leakage,2026-11-04,Resolved,Admin,2026-11-06,2.0,D,2.0,False
+447,96,Cleanliness,Common area repair,2026-02-25,In Progress,Electrician,,,B,264.0,True
+448,88,Other,Common area repair,2026-08-04,In Progress,Electrician,,,B,104.0,True
+449,152,Lift,Gate access issue,2026-08-31,Open,Maintenance Team,,,D,77.0,True
+450,37,Lift,Pipe leakage,2025-11-30,Resolved,Electrician,2025-12-16,16.0,A,16.0,True
+451,114,Electrical,Lift maintenance request,2025-12-07,In Progress,Admin,,,C,344.0,True
+452,148,Lift,Lift maintenance request,2025-12-14,Resolved,Admin,2025-12-19,5.0,C,5.0,False
+453,115,Plumbing,Low water pressure,2026-08-27,In Progress,Admin,,,C,81.0,True
+454,132,Water,Low water pressure,2026-08-03,Resolved,Plumber,2026-08-21,18.0,C,18.0,True
+455,62,Other,Common area repair,2026-05-22,In Progress,Plumber,,,B,178.0,True
+456,99,Cleanliness,Pipe leakage,2026-04-25,In Progress,Plumber,,,B,205.0,True
+457,81,Cleanliness,Low water pressure,2026-10-20,Resolved,Maintenance Team,2026-10-25,5.0,B,5.0,False
+458,80,Plumbing,Common area repair,2026-04-09,Resolved,Plumber,2026-04-13,4.0,B,4.0,False
+459,23,Electrical,Low water pressure,2026-05-04,Open,Plumber,,,A,196.0,True
+460,137,Cleanliness,Waste collection delayed,2026-07-26,Resolved,Electrician,2026-08-09,14.0,C,14.0,True
+461,97,Electrical,Common area repair,2026-07-26,Open,Plumber,,,B,113.0,True
+462,131,Security,Lift maintenance request,2026-04-15,Resolved,Admin,2026-04-18,3.0,C,3.0,False
+463,61,Water,Low water pressure,2026-06-08,In Progress,Admin,,,B,161.0,True
+464,116,Electrical,Common area repair,2026-09-15,Resolved,Admin,2026-10-03,18.0,C,18.0,True
+465,188,Water,Corridor light not working,2025-12-14,Resolved,Plumber,2026-01-01,18.0,D,18.0,True
+466,171,Other,Gate access issue,2026-03-18,Resolved,Maintenance Team,2026-03-29,11.0,D,11.0,True
+467,5,Lift,Waste collection delayed,2026-07-24,Resolved,Admin,2026-07-29,5.0,A,5.0,False
+468,173,Other,Low water pressure,2026-11-03,In Progress,Plumber,,,D,13.0,True
+469,77,Lift,Low water pressure,2026-11-08,In Progress,Plumber,,,B,8.0,True
+470,149,Water,Corridor light not working,2026-03-07,Resolved,Maintenance Team,2026-03-14,7.0,C,7.0,False
+471,25,Plumbing,Gate access issue,2026-08-26,Resolved,Electrician,2026-09-05,10.0,A,10.0,True
+472,90,Plumbing,Corridor light not working,2026-09-26,In Progress,Admin,,,B,51.0,True
+473,58,Lift,Waste collection delayed,2026-04-27,Resolved,Admin,2026-05-12,15.0,B,15.0,True
+474,149,Other,Low water pressure,2025-12-17,Resolved,Electrician,2025-12-19,2.0,C,2.0,False
+475,63,Plumbing,Pipe leakage,2026-07-28,Resolved,Plumber,2026-08-15,18.0,B,18.0,True
+476,119,Electrical,Waste collection delayed,2026-07-01,Open,Admin,,,C,138.0,True
+477,148,Plumbing,Gate access issue,2026-07-27,Resolved,Electrician,2026-08-02,6.0,C,6.0,False
+478,104,Lift,Pipe leakage,2026-11-02,Resolved,Plumber,2026-11-06,4.0,C,4.0,False
+479,109,Security,Low water pressure,2026-03-07,Open,Admin,,,C,254.0,True
+480,84,Security,Lift maintenance request,2026-08-06,In Progress,Maintenance Team,,,B,102.0,True
+481,199,Electrical,Common area repair,2026-08-18,Resolved,Admin,2026-09-05,18.0,D,18.0,True
+482,79,Plumbing,Lift maintenance request,2026-08-24,In Progress,Electrician,,,B,84.0,True
+483,37,Lift,Pipe leakage,2026-05-09,Resolved,Maintenance Team,2026-05-22,13.0,A,13.0,True
+484,148,Security,Pipe leakage,2026-04-09,Resolved,Maintenance Team,2026-04-17,8.0,C,8.0,True
+485,171,Cleanliness,Pipe leakage,2026-07-17,Resolved,Plumber,2026-07-23,6.0,D,6.0,False
+486,173,Electrical,Corridor light not working,2026-01-22,Open,Maintenance Team,,,D,298.0,True
+487,113,Cleanliness,Common area repair,2026-03-23,Open,Maintenance Team,,,C,238.0,True
+488,34,Lift,Lift maintenance request,2026-06-26,Open,Maintenance Team,,,A,143.0,True
+489,1,Plumbing,Common area repair,2025-12-13,Resolved,Admin,2025-12-30,17.0,A,17.0,True
+490,164,Water,Corridor light not working,2026-02-05,Resolved,Admin,2026-02-15,10.0,D,10.0,True
+491,134,Electrical,Lift maintenance request,2026-01-19,Resolved,Admin,2026-01-20,1.0,C,1.0,False
+492,19,Plumbing,Waste collection delayed,2026-09-04,In Progress,Plumber,,,A,73.0,True
+493,157,Lift,Lift maintenance request,2026-08-17,Resolved,Electrician,2026-08-27,10.0,D,10.0,True
+494,87,Water,Gate access issue,2026-05-26,Resolved,Admin,2026-06-07,12.0,B,12.0,True
+495,69,Plumbing,Low water pressure,2026-10-11,Resolved,Electrician,2026-10-25,14.0,B,14.0,True
+496,60,Electrical,Gate access issue,2026-07-18,Resolved,Maintenance Team,2026-08-02,15.0,B,15.0,True
+497,160,Lift,Common area repair,2026-04-05,Resolved,Plumber,2026-04-17,12.0,D,12.0,True
+498,68,Lift,Lift maintenance request,2026-01-04,In Progress,Admin,,,B,316.0,True
+499,98,Cleanliness,Common area repair,2026-03-14,Resolved,Maintenance Team,2026-03-28,14.0,B,14.0,True
+500,158,Plumbing,Lift maintenance request,2026-05-09,In Progress,Plumber,,,D,191.0,True
+501,38,Water,Low water pressure,2026-05-11,Resolved,Maintenance Team,2026-05-19,8.0,A,8.0,True
+502,124,Lift,Common area repair,2026-09-15,Resolved,Electrician,2026-09-20,5.0,C,5.0,False
+503,187,Security,Gate access issue,2026-10-16,Open,Admin,,,D,31.0,True
+504,93,Plumbing,Common area repair,2026-04-08,Resolved,Plumber,2026-04-25,17.0,B,17.0,True
+505,65,Lift,Low water pressure,2026-08-03,Open,Admin,,,B,105.0,True
+506,19,Water,Pipe leakage,2026-10-15,Resolved,Electrician,2026-10-26,11.0,A,11.0,True
+507,69,Electrical,Lift maintenance request,2026-09-27,Resolved,Admin,2026-10-13,16.0,B,16.0,True
+508,120,Other,Waste collection delayed,2026-01-19,Resolved,Admin,2026-02-05,17.0,C,17.0,True
+509,38,Plumbing,Low water pressure,2026-08-07,Resolved,Electrician,2026-08-17,10.0,A,10.0,True
+510,194,Plumbing,Lift maintenance request,2026-06-16,Resolved,Admin,2026-06-17,1.0,D,1.0,False
+511,17,Lift,Low water pressure,2026-11-12,Resolved,Maintenance Team,2026-11-16,4.0,A,4.0,False
+512,199,Cleanliness,Low water pressure,2026-03-05,Open,Maintenance Team,,,D,256.0,True
+513,173,Water,Lift maintenance request,2026-04-02,Resolved,Electrician,2026-04-08,6.0,D,6.0,False
+514,76,Water,Waste collection delayed,2025-12-06,Resolved,Maintenance Team,2025-12-15,9.0,B,9.0,True
+515,200,Electrical,Lift maintenance request,2026-07-18,In Progress,Electrician,,,D,121.0,True
+516,188,Electrical,Corridor light not working,2026-03-15,Open,Maintenance Team,,,D,246.0,True
+517,81,Plumbing,Pipe leakage,2026-06-04,In Progress,Plumber,,,B,165.0,True
+518,102,Electrical,Lift maintenance request,2026-02-24,Open,Maintenance Team,,,C,265.0,True
+519,111,Lift,Low water pressure,2025-12-24,Resolved,Maintenance Team,2026-01-11,18.0,C,18.0,True
+520,28,Other,Gate access issue,2025-11-24,Open,Electrician,,,A,357.0,True
+521,192,Cleanliness,Corridor light not working,2026-10-19,Resolved,Plumber,2026-10-30,11.0,D,11.0,True
+522,26,Electrical,Lift maintenance request,2026-08-20,Resolved,Admin,2026-09-04,15.0,A,15.0,True
+523,26,Water,Gate access issue,2025-11-21,Resolved,Electrician,2025-11-30,9.0,A,9.0,True
+524,193,Cleanliness,Common area repair,2026-11-13,Resolved,Maintenance Team,2026-11-16,3.0,D,3.0,False
+525,117,Cleanliness,Pipe leakage,2026-01-23,Resolved,Plumber,2026-01-26,3.0,C,3.0,False
+526,96,Security,Pipe leakage,2026-05-29,Resolved,Electrician,2026-06-12,14.0,B,14.0,True
+527,145,Cleanliness,Gate access issue,2026-06-25,Resolved,Admin,2026-06-30,5.0,C,5.0,False
+528,4,Plumbing,Low water pressure,2026-10-31,In Progress,Plumber,,,A,16.0,True
+529,172,Lift,Lift maintenance request,2026-04-26,Open,Admin,,,D,204.0,True
+530,83,Electrical,Corridor light not working,2026-01-10,In Progress,Admin,,,B,310.0,True
+531,158,Cleanliness,Pipe leakage,2026-06-18,Resolved,Electrician,2026-06-30,12.0,D,12.0,True
+532,121,Security,Corridor light not working,2026-11-02,Resolved,Admin,2026-11-14,12.0,C,12.0,True
+533,71,Security,Common area repair,2026-04-19,Resolved,Admin,2026-05-02,13.0,B,13.0,True
+534,152,Other,Low water pressure,2026-01-09,Open,Admin,,,D,311.0,True
+535,69,Other,Low water pressure,2025-12-07,In Progress,Plumber,,,B,344.0,True
+536,134,Electrical,Pipe leakage,2026-10-15,In Progress,Electrician,,,C,32.0,True
+537,47,Cleanliness,Pipe leakage,2026-03-01,Open,Electrician,,,A,260.0,True
+538,180,Other,Waste collection delayed,2026-02-02,Resolved,Electrician,2026-02-16,14.0,D,14.0,True
+539,96,Plumbing,Corridor light not working,2026-04-15,Open,Electrician,,,B,215.0,True
+540,163,Security,Gate access issue,2026-06-13,Open,Electrician,,,D,156.0,True
+541,81,Electrical,Low water pressure,2026-07-10,Open,Plumber,,,B,129.0,True
+542,106,Water,Corridor light not working,2026-07-23,Open,Maintenance Team,,,C,116.0,True
+543,157,Plumbing,Pipe leakage,2025-12-13,In Progress,Admin,,,D,338.0,True
+544,55,Electrical,Gate access issue,2026-09-02,Resolved,Electrician,2026-09-12,10.0,B,10.0,True
+545,104,Lift,Pipe leakage,2026-03-13,Open,Plumber,,,C,248.0,True
+546,117,Other,Pipe leakage,2026-08-08,Resolved,Admin,2026-08-18,10.0,C,10.0,True
+547,142,Electrical,Waste collection delayed,2026-05-26,Open,Electrician,,,C,174.0,True
+548,38,Security,Low water pressure,2026-01-06,Resolved,Electrician,2026-01-14,8.0,A,8.0,True
+549,186,Electrical,Pipe leakage,2026-09-15,Resolved,Admin,2026-09-19,4.0,D,4.0,False
+550,63,Security,Corridor light not working,2026-07-22,Resolved,Maintenance Team,2026-07-29,7.0,B,7.0,False
+551,104,Other,Pipe leakage,2025-11-30,Resolved,Maintenance Team,2025-12-01,1.0,C,1.0,False
+552,76,Other,Low water pressure,2025-12-23,Open,Admin,,,B,328.0,True
+553,170,Lift,Low water pressure,2026-06-18,Resolved,Maintenance Team,2026-06-20,2.0,D,2.0,False
+554,123,Electrical,Waste collection delayed,2026-03-03,Resolved,Maintenance Team,2026-03-05,2.0,C,2.0,False
+555,83,Plumbing,Lift maintenance request,2026-08-24,Resolved,Admin,2026-09-02,9.0,B,9.0,True
+556,59,Water,Common area repair,2026-04-06,Resolved,Maintenance Team,2026-04-18,12.0,B,12.0,True
+557,17,Cleanliness,Pipe leakage,2026-03-17,In Progress,Admin,,,A,244.0,True
+558,188,Cleanliness,Low water pressure,2026-01-18,Resolved,Maintenance Team,2026-01-31,13.0,D,13.0,True
+559,1,Other,Lift maintenance request,2026-04-16,Open,Admin,,,A,214.0,True
+560,123,Cleanliness,Common area repair,2026-06-03,In Progress,Electrician,,,C,166.0,True
+561,30,Water,Pipe leakage,2026-08-06,Resolved,Plumber,2026-08-07,1.0,A,1.0,False
+562,81,Plumbing,Low water pressure,2026-07-27,Resolved,Plumber,2026-08-05,9.0,B,9.0,True
+563,25,Water,Corridor light not working,2026-09-08,In Progress,Electrician,,,A,69.0,True
+564,1,Cleanliness,Low water pressure,2026-07-08,Resolved,Maintenance Team,2026-07-16,8.0,A,8.0,True
+565,6,Electrical,Waste collection delayed,2026-11-08,Open,Admin,,,A,8.0,True
+566,28,Plumbing,Common area repair,2025-11-27,Open,Plumber,,,A,354.0,True
+567,52,Water,Waste collection delayed,2025-12-25,In Progress,Admin,,,B,326.0,True
+568,157,Electrical,Corridor light not working,2026-05-14,Open,Plumber,,,D,186.0,True
+569,95,Plumbing,Waste collection delayed,2026-09-28,Resolved,Maintenance Team,2026-10-16,18.0,B,18.0,True
+570,77,Cleanliness,Lift maintenance request,2026-05-17,In Progress,Maintenance Team,,,B,183.0,True
+571,74,Lift,Common area repair,2026-01-06,Open,Maintenance Team,,,B,314.0,True
+572,16,Electrical,Pipe leakage,2025-12-10,Resolved,Maintenance Team,2025-12-24,14.0,A,14.0,True
+573,60,Water,Gate access issue,2026-09-25,Resolved,Admin,2026-10-02,7.0,B,7.0,False
+574,52,Electrical,Corridor light not working,2026-05-18,Resolved,Plumber,2026-05-24,6.0,B,6.0,False
+575,160,Plumbing,Lift maintenance request,2026-04-08,Resolved,Plumber,2026-04-18,10.0,D,10.0,True
+576,169,Lift,Pipe leakage,2025-11-24,In Progress,Maintenance Team,,,D,357.0,True
+577,12,Cleanliness,Low water pressure,2026-04-30,In Progress,Admin,,,A,200.0,True
+578,2,Plumbing,Lift maintenance request,2026-09-26,Resolved,Plumber,2026-09-29,3.0,A,3.0,False
+579,63,Water,Pipe leakage,2026-10-10,Resolved,Maintenance Team,2026-10-17,7.0,B,7.0,False
+580,32,Lift,Lift maintenance request,2026-08-30,Resolved,Admin,2026-09-04,5.0,A,5.0,False
+581,12,Electrical,Pipe leakage,2025-12-30,Resolved,Maintenance Team,2026-01-08,9.0,A,9.0,True
+582,77,Water,Waste collection delayed,2026-08-01,Resolved,Electrician,2026-08-07,6.0,B,6.0,False
+583,139,Security,Corridor light not working,2026-11-05,Resolved,Plumber,2026-11-16,11.0,C,11.0,True
+584,148,Cleanliness,Corridor light not working,2025-11-26,Resolved,Maintenance Team,2025-11-30,4.0,C,4.0,False
+585,197,Other,Low water pressure,2026-06-12,Resolved,Plumber,2026-06-26,14.0,D,14.0,True
+586,183,Electrical,Lift maintenance request,2026-10-12,Resolved,Plumber,2026-10-16,4.0,D,4.0,False
+587,40,Water,Low water pressure,2025-11-25,Resolved,Electrician,2025-12-10,15.0,A,15.0,True
+588,151,Cleanliness,Waste collection delayed,2026-02-23,Resolved,Electrician,2026-03-01,6.0,D,6.0,False
+589,120,Plumbing,Gate access issue,2026-09-01,In Progress,Plumber,,,C,76.0,True
+590,96,Electrical,Waste collection delayed,2026-06-07,Resolved,Plumber,2026-06-09,2.0,B,2.0,False
+591,181,Plumbing,Lift maintenance request,2026-06-18,Resolved,Electrician,2026-07-05,17.0,D,17.0,True
+592,177,Security,Low water pressure,2026-01-04,In Progress,Plumber,,,D,316.0,True
+593,156,Lift,Pipe leakage,2026-06-15,Resolved,Admin,2026-06-18,3.0,D,3.0,False
+594,106,Security,Waste collection delayed,2026-09-07,Resolved,Electrician,2026-09-14,7.0,C,7.0,False
+595,86,Plumbing,Common area repair,2026-10-17,Resolved,Admin,2026-11-03,17.0,B,17.0,True
+596,59,Lift,Corridor light not working,2026-08-22,Resolved,Electrician,2026-09-03,12.0,B,12.0,True
+597,160,Water,Pipe leakage,2026-04-26,Resolved,Plumber,2026-04-29,3.0,D,3.0,False
+598,131,Lift,Corridor light not working,2025-11-25,In Progress,Plumber,,,C,356.0,True
+599,80,Electrical,Corridor light not working,2026-05-20,Resolved,Plumber,2026-06-02,13.0,B,13.0,True
+600,10,Cleanliness,Lift maintenance request,2025-12-25,In Progress,Maintenance Team,,,A,326.0,True
+601,79,Cleanliness,Gate access issue,2025-12-18,Resolved,Maintenance Team,2025-12-29,11.0,B,11.0,True
+602,84,Other,Pipe leakage,2026-11-03,In Progress,Admin,,,B,13.0,True
+603,157,Other,Waste collection delayed,2026-04-14,Resolved,Maintenance Team,2026-05-01,17.0,D,17.0,True
+604,154,Other,Waste collection delayed,2026-10-16,In Progress,Electrician,,,D,31.0,True
+605,112,Water,Corridor light not working,2026-03-16,Open,Plumber,,,C,245.0,True
+606,182,Other,Common area repair,2025-12-04,Resolved,Maintenance Team,2025-12-12,8.0,D,8.0,True
+607,81,Other,Low water pressure,2026-07-31,Resolved,Admin,2026-08-15,15.0,B,15.0,True
+608,25,Plumbing,Lift maintenance request,2026-02-13,Resolved,Electrician,2026-02-26,13.0,A,13.0,True
+609,174,Security,Corridor light not working,2026-01-12,Resolved,Plumber,2026-01-22,10.0,D,10.0,True
+610,184,Plumbing,Corridor light not working,2026-09-14,Open,Plumber,,,D,63.0,True
+611,148,Water,Gate access issue,2026-02-09,Open,Plumber,,,C,280.0,True
+612,34,Cleanliness,Corridor light not working,2026-05-01,Resolved,Electrician,2026-05-03,2.0,A,2.0,False
+613,133,Other,Waste collection delayed,2026-09-16,Open,Maintenance Team,,,C,61.0,True
+614,40,Other,Pipe leakage,2026-04-12,Open,Plumber,,,A,218.0,True
+615,16,Lift,Common area repair,2026-07-28,In Progress,Admin,,,A,111.0,True
+616,26,Other,Lift maintenance request,2026-07-20,Open,Electrician,,,A,119.0,True
+617,188,Electrical,Low water pressure,2026-01-27,Resolved,Electrician,2026-02-13,17.0,D,17.0,True
+618,94,Other,Corridor light not working,2026-05-21,Open,Plumber,,,B,179.0,True
+619,154,Plumbing,Gate access issue,2026-10-14,Resolved,Electrician,2026-10-27,13.0,D,13.0,True
+620,124,Plumbing,Pipe leakage,2026-02-22,Resolved,Plumber,2026-02-24,2.0,C,2.0,False
+621,144,Lift,Low water pressure,2026-10-02,Resolved,Admin,2026-10-08,6.0,C,6.0,False
+622,190,Lift,Lift maintenance request,2026-01-20,Resolved,Admin,2026-02-02,13.0,D,13.0,True
+623,121,Other,Gate access issue,2025-12-05,Resolved,Maintenance Team,2025-12-22,17.0,C,17.0,True
+624,188,Other,Pipe leakage,2025-12-09,Resolved,Electrician,2025-12-23,14.0,D,14.0,True
+625,110,Cleanliness,Pipe leakage,2026-06-12,Resolved,Admin,2026-06-19,7.0,C,7.0,False
+626,138,Electrical,Pipe leakage,2025-12-16,Resolved,Electrician,2025-12-25,9.0,C,9.0,True
+627,17,Lift,Gate access issue,2026-04-15,In Progress,Electrician,,,A,215.0,True
+628,194,Other,Waste collection delayed,2026-02-13,Open,Electrician,,,D,276.0,True
+629,123,Security,Waste collection delayed,2026-07-06,Open,Plumber,,,C,133.0,True
+630,1,Other,Corridor light not working,2026-09-20,Resolved,Maintenance Team,2026-10-04,14.0,A,14.0,True
+631,31,Water,Pipe leakage,2026-04-10,Resolved,Admin,2026-04-19,9.0,A,9.0,True
+632,115,Water,Gate access issue,2026-04-26,In Progress,Admin,,,C,204.0,True
+633,51,Security,Lift maintenance request,2026-03-07,Resolved,Admin,2026-03-17,10.0,B,10.0,True
+634,176,Other,Low water pressure,2026-05-19,In Progress,Admin,,,D,181.0,True
+635,147,Lift,Low water pressure,2026-05-20,Resolved,Maintenance Team,2026-06-04,15.0,C,15.0,True
+636,14,Water,Pipe leakage,2025-12-19,Open,Admin,,,A,332.0,True
+637,8,Security,Gate access issue,2026-07-15,Resolved,Plumber,2026-07-29,14.0,A,14.0,True
+638,95,Lift,Gate access issue,2026-08-14,Resolved,Electrician,2026-08-21,7.0,B,7.0,False
+639,15,Plumbing,Lift maintenance request,2025-12-30,Resolved,Maintenance Team,2026-01-12,13.0,A,13.0,True
+640,118,Water,Pipe leakage,2026-08-08,In Progress,Admin,,,C,100.0,True
+641,136,Lift,Pipe leakage,2026-02-18,Open,Electrician,,,C,271.0,True
+642,45,Water,Pipe leakage,2025-12-21,Open,Admin,,,A,330.0,True
+643,56,Other,Waste collection delayed,2026-06-02,Resolved,Maintenance Team,2026-06-03,1.0,B,1.0,False
+644,34,Lift,Gate access issue,2026-11-10,Open,Electrician,,,A,6.0,False
+645,38,Water,Gate access issue,2026-03-22,Resolved,Maintenance Team,2026-04-05,14.0,A,14.0,True
+646,135,Security,Gate access issue,2026-03-12,Open,Electrician,,,C,249.0,True
+647,110,Cleanliness,Lift maintenance request,2026-02-08,Resolved,Admin,2026-02-16,8.0,C,8.0,True
+648,168,Water,Corridor light not working,2026-01-29,Open,Maintenance Team,,,D,291.0,True
+649,40,Plumbing,Common area repair,2025-12-11,Open,Admin,,,A,340.0,True
+650,40,Cleanliness,Common area repair,2025-12-07,Resolved,Electrician,2025-12-09,2.0,A,2.0,False
+651,124,Plumbing,Waste collection delayed,2026-09-19,In Progress,Admin,,,C,58.0,True
+652,37,Lift,Gate access issue,2025-12-14,Resolved,Electrician,2025-12-23,9.0,A,9.0,True
+653,157,Lift,Pipe leakage,2025-12-05,Resolved,Maintenance Team,2025-12-16,11.0,D,11.0,True
+654,40,Plumbing,Waste collection delayed,2026-05-15,Resolved,Admin,2026-05-21,6.0,A,6.0,False
+655,160,Water,Pipe leakage,2026-05-08,Open,Maintenance Team,,,D,192.0,True
+656,124,Lift,Waste collection delayed,2026-03-12,Resolved,Admin,2026-03-17,5.0,C,5.0,False
+657,180,Water,Waste collection delayed,2026-05-31,Resolved,Electrician,2026-06-14,14.0,D,14.0,True
+658,3,Security,Pipe leakage,2026-04-03,Open,Electrician,,,A,227.0,True
+659,199,Other,Common area repair,2026-02-19,In Progress,Maintenance Team,,,D,270.0,True
+660,154,Electrical,Corridor light not working,2026-02-04,Resolved,Electrician,2026-02-22,18.0,D,18.0,True
+661,141,Other,Low water pressure,2025-12-03,Open,Maintenance Team,,,C,348.0,True
+662,35,Cleanliness,Waste collection delayed,2026-05-03,Resolved,Electrician,2026-05-04,1.0,A,1.0,False
+663,100,Other,Corridor light not working,2026-01-17,Open,Electrician,,,B,303.0,True
+664,79,Lift,Lift maintenance request,2026-08-04,Resolved,Electrician,2026-08-05,1.0,B,1.0,False
+665,35,Other,Pipe leakage,2026-08-04,Resolved,Admin,2026-08-14,10.0,A,10.0,True
+666,159,Other,Waste collection delayed,2026-09-04,Resolved,Plumber,2026-09-12,8.0,D,8.0,True
+667,119,Security,Corridor light not working,2026-08-03,Resolved,Maintenance Team,2026-08-05,2.0,C,2.0,False
+668,87,Other,Low water pressure,2026-05-08,Open,Maintenance Team,,,B,192.0,True
+669,103,Security,Lift maintenance request,2026-07-11,Open,Plumber,,,C,128.0,True
+670,82,Water,Waste collection delayed,2026-10-28,Resolved,Plumber,2026-11-13,16.0,B,16.0,True
+671,165,Security,Pipe leakage,2026-09-03,Resolved,Electrician,2026-09-12,9.0,D,9.0,True
+672,187,Other,Common area repair,2026-02-07,Resolved,Plumber,2026-02-14,7.0,D,7.0,False
+673,174,Security,Common area repair,2026-06-26,Open,Electrician,,,D,143.0,True
+674,54,Lift,Gate access issue,2026-11-05,Open,Admin,,,B,11.0,True
+675,35,Water,Common area repair,2026-09-30,Resolved,Maintenance Team,2026-10-09,9.0,A,9.0,True
+676,135,Cleanliness,Gate access issue,2026-08-24,Resolved,Electrician,2026-09-02,9.0,C,9.0,True
+677,37,Cleanliness,Pipe leakage,2025-11-21,Resolved,Admin,2025-12-02,11.0,A,11.0,True
+678,6,Electrical,Common area repair,2026-01-07,Open,Maintenance Team,,,A,313.0,True
+679,183,Lift,Corridor light not working,2026-06-20,Resolved,Admin,2026-06-23,3.0,D,3.0,False
+680,149,Water,Waste collection delayed,2026-03-28,Resolved,Maintenance Team,2026-04-02,5.0,C,5.0,False
+681,180,Plumbing,Common area repair,2026-02-18,In Progress,Admin,,,D,271.0,True
+682,19,Lift,Gate access issue,2026-05-30,Resolved,Admin,2026-06-05,6.0,A,6.0,False
+683,62,Water,Pipe leakage,2026-05-08,Resolved,Maintenance Team,2026-05-26,18.0,B,18.0,True
+684,102,Water,Pipe leakage,2026-03-15,Open,Plumber,,,C,246.0,True
+685,32,Water,Gate access issue,2026-07-13,Resolved,Plumber,2026-07-31,18.0,A,18.0,True
+686,34,Electrical,Common area repair,2026-05-04,Resolved,Plumber,2026-05-20,16.0,A,16.0,True
+687,110,Electrical,Lift maintenance request,2026-10-04,In Progress,Plumber,,,C,43.0,True
+688,170,Plumbing,Common area repair,2026-01-07,Resolved,Maintenance Team,2026-01-14,7.0,D,7.0,False
+689,198,Electrical,Common area repair,2026-07-03,Open,Admin,,,D,136.0,True
+690,192,Security,Pipe leakage,2026-02-12,In Progress,Plumber,,,D,277.0,True
+691,42,Plumbing,Common area repair,2026-04-05,Resolved,Plumber,2026-04-22,17.0,A,17.0,True
+692,79,Security,Corridor light not working,2025-11-25,In Progress,Maintenance Team,,,B,356.0,True
+693,200,Lift,Waste collection delayed,2025-12-22,Resolved,Admin,2025-12-30,8.0,D,8.0,True
+694,68,Plumbing,Lift maintenance request,2025-12-04,Resolved,Maintenance Team,2025-12-19,15.0,B,15.0,True
+695,65,Electrical,Low water pressure,2026-01-15,Open,Maintenance Team,,,B,305.0,True
+696,128,Electrical,Corridor light not working,2026-03-30,Resolved,Plumber,2026-04-08,9.0,C,9.0,True
+697,90,Cleanliness,Gate access issue,2026-10-31,Resolved,Maintenance Team,2026-11-07,7.0,B,7.0,False
+698,16,Security,Pipe leakage,2026-08-10,Resolved,Plumber,2026-08-23,13.0,A,13.0,True
+699,94,Electrical,Corridor light not working,2026-08-20,Resolved,Maintenance Team,2026-08-21,1.0,B,1.0,False
+700,86,Other,Pipe leakage,2026-03-26,Resolved,Admin,2026-03-27,1.0,B,1.0,False
+701,200,Plumbing,Gate access issue,2026-05-09,In Progress,Admin,,,D,191.0,True
+702,1,Cleanliness,Gate access issue,2026-11-08,Open,Admin,,,A,8.0,True
+703,139,Electrical,Waste collection delayed,2026-02-11,Resolved,Admin,2026-02-16,5.0,C,5.0,False
+704,38,Cleanliness,Waste collection delayed,2026-07-18,Open,Admin,,,A,121.0,True
+705,52,Security,Common area repair,2026-11-09,Resolved,Plumber,2026-11-16,7.0,B,7.0,False
+706,45,Other,Lift maintenance request,2026-11-09,Open,Admin,,,A,7.0,False
+707,34,Other,Gate access issue,2026-09-23,Resolved,Electrician,2026-09-24,1.0,A,1.0,False
+708,187,Water,Corridor light not working,2026-10-03,Resolved,Admin,2026-10-05,2.0,D,2.0,False
+709,111,Cleanliness,Corridor light not working,2026-02-10,Resolved,Plumber,2026-02-23,13.0,C,13.0,True
+710,134,Security,Lift maintenance request,2026-08-18,Resolved,Electrician,2026-08-31,13.0,C,13.0,True
+711,199,Lift,Waste collection delayed,2026-07-09,Resolved,Electrician,2026-07-13,4.0,D,4.0,False
+712,120,Lift,Common area repair,2026-10-11,In Progress,Plumber,,,C,36.0,True
+713,133,Cleanliness,Gate access issue,2026-05-27,Resolved,Plumber,2026-06-07,11.0,C,11.0,True
+714,120,Plumbing,Lift maintenance request,2026-07-16,Resolved,Plumber,2026-07-23,7.0,C,7.0,False
+715,131,Other,Gate access issue,2026-10-25,Open,Electrician,,,C,22.0,True
+716,23,Plumbing,Lift maintenance request,2025-12-01,Resolved,Maintenance Team,2025-12-12,11.0,A,11.0,True
+717,183,Security,Lift maintenance request,2026-10-10,Open,Plumber,,,D,37.0,True
+718,61,Cleanliness,Waste collection delayed,2026-09-01,Resolved,Plumber,2026-09-03,2.0,B,2.0,False
+719,121,Water,Lift maintenance request,2026-07-29,Resolved,Plumber,2026-08-04,6.0,C,6.0,False
+720,124,Water,Low water pressure,2026-05-17,Resolved,Electrician,2026-05-31,14.0,C,14.0,True
+721,58,Water,Pipe leakage,2026-06-10,In Progress,Maintenance Team,,,B,159.0,True
+722,134,Cleanliness,Low water pressure,2026-05-05,Resolved,Maintenance Team,2026-05-12,7.0,C,7.0,False
+723,161,Cleanliness,Waste collection delayed,2026-05-21,In Progress,Plumber,,,D,179.0,True
+724,184,Other,Low water pressure,2026-02-24,In Progress,Electrician,,,D,265.0,True
+725,82,Plumbing,Lift maintenance request,2026-07-26,Resolved,Plumber,2026-08-11,16.0,B,16.0,True
+726,172,Lift,Pipe leakage,2026-01-18,Resolved,Plumber,2026-01-31,13.0,D,13.0,True
+727,190,Other,Pipe leakage,2026-06-23,Resolved,Maintenance Team,2026-07-06,13.0,D,13.0,True
+728,119,Plumbing,Waste collection delayed,2026-04-16,Resolved,Admin,2026-05-01,15.0,C,15.0,True
+729,168,Cleanliness,Waste collection delayed,2026-10-26,Resolved,Admin,2026-10-27,1.0,D,1.0,False
+730,1,Plumbing,Gate access issue,2026-09-26,In Progress,Maintenance Team,,,A,51.0,True
+731,51,Water,Lift maintenance request,2026-02-02,Resolved,Admin,2026-02-11,9.0,B,9.0,True
+732,8,Other,Corridor light not working,2026-03-06,Resolved,Plumber,2026-03-15,9.0,A,9.0,True
+733,35,Other,Pipe leakage,2026-06-02,Resolved,Electrician,2026-06-13,11.0,A,11.0,True
+734,132,Cleanliness,Corridor light not working,2026-08-31,Resolved,Electrician,2026-09-05,5.0,C,5.0,False
+735,29,Plumbing,Corridor light not working,2026-10-09,Resolved,Plumber,2026-10-17,8.0,A,8.0,True
+736,34,Lift,Waste collection delayed,2026-10-09,Resolved,Admin,2026-10-15,6.0,A,6.0,False
+737,82,Other,Low water pressure,2026-07-05,Resolved,Plumber,2026-07-21,16.0,B,16.0,True
+738,35,Lift,Gate access issue,2026-08-09,Resolved,Electrician,2026-08-21,12.0,A,12.0,True
+739,25,Other,Waste collection delayed,2026-06-20,Resolved,Plumber,2026-07-02,12.0,A,12.0,True
+740,166,Security,Lift maintenance request,2026-04-20,Resolved,Admin,2026-04-23,3.0,D,3.0,False
+741,168,Electrical,Pipe leakage,2026-09-05,Resolved,Maintenance Team,2026-09-07,2.0,D,2.0,False
+742,2,Water,Corridor light not working,2026-05-15,Resolved,Electrician,2026-05-23,8.0,A,8.0,True
+743,107,Plumbing,Common area repair,2025-12-26,Resolved,Admin,2025-12-31,5.0,C,5.0,False
+744,145,Lift,Lift maintenance request,2026-06-23,In Progress,Admin,,,C,146.0,True
+745,41,Plumbing,Corridor light not working,2026-07-15,Resolved,Electrician,2026-07-18,3.0,A,3.0,False
+746,41,Other,Lift maintenance request,2026-08-07,Resolved,Electrician,2026-08-13,6.0,A,6.0,False
+747,131,Lift,Lift maintenance request,2025-12-31,Open,Maintenance Team,,,C,320.0,True
+748,120,Cleanliness,Corridor light not working,2026-07-26,Resolved,Electrician,2026-08-06,11.0,C,11.0,True
+749,158,Cleanliness,Corridor light not working,2026-07-17,Resolved,Admin,2026-07-31,14.0,D,14.0,True
+750,21,Other,Waste collection delayed,2026-01-11,In Progress,Maintenance Team,,,A,309.0,True
+751,151,Other,Waste collection delayed,2026-10-14,Resolved,Maintenance Team,2026-10-19,5.0,D,5.0,False
+752,107,Plumbing,Corridor light not working,2026-07-28,Open,Admin,,,C,111.0,True
+753,8,Plumbing,Lift maintenance request,2026-07-03,Resolved,Maintenance Team,2026-07-08,5.0,A,5.0,False
+754,32,Water,Gate access issue,2026-07-09,Open,Maintenance Team,,,A,130.0,True
+755,9,Water,Low water pressure,2026-04-29,Resolved,Admin,2026-05-02,3.0,A,3.0,False
+756,95,Water,Gate access issue,2026-11-11,Resolved,Plumber,2026-11-16,5.0,B,5.0,False
+757,127,Electrical,Gate access issue,2026-03-11,Resolved,Maintenance Team,2026-03-23,12.0,C,12.0,True
+758,171,Water,Waste collection delayed,2026-04-24,Resolved,Maintenance Team,2026-04-26,2.0,D,2.0,False
+759,30,Electrical,Common area repair,2026-05-08,Resolved,Maintenance Team,2026-05-15,7.0,A,7.0,False
+760,158,Security,Pipe leakage,2026-10-10,Resolved,Electrician,2026-10-14,4.0,D,4.0,False
+761,162,Plumbing,Common area repair,2026-09-26,Open,Electrician,,,D,51.0,True
+762,112,Lift,Pipe leakage,2026-01-08,Resolved,Maintenance Team,2026-01-14,6.0,C,6.0,False
+763,118,Electrical,Waste collection delayed,2026-09-10,Resolved,Plumber,2026-09-18,8.0,C,8.0,True
+764,140,Plumbing,Lift maintenance request,2026-02-06,Resolved,Maintenance Team,2026-02-22,16.0,C,16.0,True
+765,115,Cleanliness,Pipe leakage,2025-11-29,Resolved,Admin,2025-12-14,15.0,C,15.0,True
+766,156,Electrical,Lift maintenance request,2025-12-13,In Progress,Electrician,,,D,338.0,True
+767,148,Water,Corridor light not working,2026-08-03,Resolved,Electrician,2026-08-20,17.0,C,17.0,True
+768,28,Cleanliness,Low water pressure,2026-03-29,Resolved,Admin,2026-04-01,3.0,A,3.0,False
+769,95,Electrical,Lift maintenance request,2026-04-02,Resolved,Electrician,2026-04-15,13.0,B,13.0,True
+770,166,Plumbing,Pipe leakage,2026-08-20,In Progress,Electrician,,,D,88.0,True
+771,29,Lift,Pipe leakage,2025-12-11,Resolved,Electrician,2025-12-21,10.0,A,10.0,True
+772,136,Cleanliness,Gate access issue,2026-08-23,Resolved,Electrician,2026-09-05,13.0,C,13.0,True
+773,66,Lift,Common area repair,2026-10-19,Resolved,Maintenance Team,2026-10-22,3.0,B,3.0,False
+774,107,Electrical,Pipe leakage,2026-03-15,Resolved,Maintenance Team,2026-03-18,3.0,C,3.0,False
+775,5,Electrical,Common area repair,2026-08-11,Open,Maintenance Team,,,A,97.0,True
+776,58,Plumbing,Low water pressure,2026-05-28,In Progress,Maintenance Team,,,B,172.0,True
+777,115,Plumbing,Lift maintenance request,2026-05-20,In Progress,Electrician,,,C,180.0,True
+778,172,Other,Waste collection delayed,2026-04-03,In Progress,Plumber,,,D,227.0,True
+779,20,Water,Waste collection delayed,2025-12-05,Resolved,Plumber,2025-12-10,5.0,A,5.0,False
+780,103,Other,Lift maintenance request,2025-12-05,Resolved,Plumber,2025-12-21,16.0,C,16.0,True
+781,170,Lift,Waste collection delayed,2026-06-05,Resolved,Maintenance Team,2026-06-17,12.0,D,12.0,True
+782,116,Water,Pipe leakage,2026-01-01,Resolved,Admin,2026-01-18,17.0,C,17.0,True
+783,121,Lift,Pipe leakage,2026-11-14,Resolved,Admin,2026-11-16,2.0,C,2.0,False
+784,4,Other,Common area repair,2026-04-21,Resolved,Electrician,2026-04-29,8.0,A,8.0,True
+785,23,Lift,Low water pressure,2026-02-03,Resolved,Electrician,2026-02-12,9.0,A,9.0,True
+786,182,Security,Waste collection delayed,2026-02-13,In Progress,Electrician,,,D,276.0,True
+787,84,Cleanliness,Corridor light not working,2026-05-21,In Progress,Admin,,,B,179.0,True
+788,199,Cleanliness,Corridor light not working,2026-10-22,Resolved,Admin,2026-11-08,17.0,D,17.0,True
+789,71,Lift,Waste collection delayed,2026-10-10,Resolved,Plumber,2026-10-28,18.0,B,18.0,True
+790,44,Electrical,Waste collection delayed,2026-09-09,In Progress,Plumber,,,A,68.0,True
+791,52,Electrical,Gate access issue,2026-07-12,Open,Admin,,,B,127.0,True
+792,11,Electrical,Common area repair,2026-07-30,Resolved,Maintenance Team,2026-08-08,9.0,A,9.0,True
+793,40,Lift,Waste collection delayed,2026-10-31,Resolved,Electrician,2026-11-16,16.0,A,16.0,True
+794,129,Security,Pipe leakage,2026-04-07,In Progress,Electrician,,,C,223.0,True
+795,5,Plumbing,Waste collection delayed,2026-01-11,In Progress,Admin,,,A,309.0,True
+796,107,Other,Pipe leakage,2026-04-29,Resolved,Electrician,2026-05-04,5.0,C,5.0,False
+797,36,Security,Common area repair,2026-04-03,Resolved,Admin,2026-04-20,17.0,A,17.0,True
+798,83,Security,Pipe leakage,2025-12-07,Resolved,Maintenance Team,2025-12-08,1.0,B,1.0,False
+799,91,Electrical,Gate access issue,2026-09-16,Open,Maintenance Team,,,B,61.0,True
+800,178,Electrical,Waste collection delayed,2026-08-02,Resolved,Plumber,2026-08-10,8.0,D,8.0,True
+801,83,Electrical,Waste collection delayed,2026-02-24,In Progress,Admin,,,B,265.0,True
+802,116,Water,Common area repair,2025-12-18,Resolved,Admin,2025-12-31,13.0,C,13.0,True
+803,177,Water,Low water pressure,2026-05-21,Open,Plumber,,,D,179.0,True
+804,67,Lift,Common area repair,2026-04-29,Resolved,Admin,2026-05-15,16.0,B,16.0,True
+805,44,Water,Pipe leakage,2026-07-08,Resolved,Admin,2026-07-19,11.0,A,11.0,True
+806,165,Cleanliness,Lift maintenance request,2026-05-22,Open,Plumber,,,D,178.0,True
+807,126,Water,Waste collection delayed,2026-05-15,In Progress,Admin,,,C,185.0,True
+808,90,Cleanliness,Pipe leakage,2026-11-15,In Progress,Electrician,,,B,1.0,False
+809,146,Plumbing,Common area repair,2026-08-25,Resolved,Maintenance Team,2026-09-12,18.0,C,18.0,True
+810,137,Cleanliness,Corridor light not working,2026-02-27,Resolved,Admin,2026-03-08,9.0,C,9.0,True
+811,180,Cleanliness,Common area repair,2025-12-05,Resolved,Electrician,2025-12-12,7.0,D,7.0,False
+812,67,Security,Waste collection delayed,2026-06-12,Resolved,Electrician,2026-06-25,13.0,B,13.0,True
+813,187,Cleanliness,Corridor light not working,2026-02-03,Resolved,Admin,2026-02-08,5.0,D,5.0,False
+814,147,Water,Corridor light not working,2026-06-05,In Progress,Admin,,,C,164.0,True
+815,100,Other,Common area repair,2025-12-05,In Progress,Plumber,,,B,346.0,True
+816,157,Water,Common area repair,2026-05-08,Open,Admin,,,D,192.0,True
+817,156,Other,Low water pressure,2026-10-28,Resolved,Plumber,2026-11-07,10.0,D,10.0,True
+818,37,Cleanliness,Corridor light not working,2026-09-30,Resolved,Electrician,2026-10-17,17.0,A,17.0,True
+819,80,Cleanliness,Corridor light not working,2026-10-19,Resolved,Electrician,2026-10-26,7.0,B,7.0,False
+820,92,Water,Lift maintenance request,2026-11-10,Open,Electrician,,,B,6.0,False
+821,127,Cleanliness,Common area repair,2026-05-08,Open,Plumber,,,C,192.0,True
+822,147,Plumbing,Waste collection delayed,2026-02-19,Resolved,Admin,2026-02-23,4.0,C,4.0,False
+823,129,Other,Pipe leakage,2026-01-19,Open,Electrician,,,C,301.0,True
+824,79,Water,Gate access issue,2026-04-27,Resolved,Plumber,2026-05-06,9.0,B,9.0,True
+825,80,Security,Corridor light not working,2026-07-06,Resolved,Electrician,2026-07-13,7.0,B,7.0,False
+826,141,Electrical,Corridor light not working,2026-05-06,Resolved,Admin,2026-05-20,14.0,C,14.0,True
+827,73,Cleanliness,Lift maintenance request,2026-11-16,Open,Plumber,,,B,0.0,False
+828,156,Electrical,Low water pressure,2026-02-02,Resolved,Admin,2026-02-16,14.0,D,14.0,True
+829,184,Plumbing,Low water pressure,2026-08-14,Resolved,Electrician,2026-08-16,2.0,D,2.0,False
+830,84,Other,Corridor light not working,2026-01-24,Resolved,Maintenance Team,2026-02-05,12.0,B,12.0,True
+831,187,Electrical,Lift maintenance request,2026-01-16,Open,Admin,,,D,304.0,True
+832,160,Plumbing,Low water pressure,2026-06-27,Resolved,Maintenance Team,2026-07-02,5.0,D,5.0,False
+833,109,Plumbing,Corridor light not working,2026-02-01,Open,Electrician,,,C,288.0,True
+834,181,Cleanliness,Common area repair,2026-03-22,In Progress,Plumber,,,D,239.0,True
+835,183,Electrical,Corridor light not working,2026-01-04,Resolved,Maintenance Team,2026-01-06,2.0,D,2.0,False
+836,74,Lift,Waste collection delayed,2025-12-12,Open,Admin,,,B,339.0,True
+837,56,Security,Waste collection delayed,2026-03-23,Resolved,Maintenance Team,2026-04-05,13.0,B,13.0,True
+838,22,Water,Low water pressure,2026-06-02,Resolved,Plumber,2026-06-09,7.0,A,7.0,False
+839,181,Security,Waste collection delayed,2026-02-22,Resolved,Plumber,2026-03-09,15.0,D,15.0,True
+840,174,Security,Waste collection delayed,2026-07-26,In Progress,Plumber,,,D,113.0,True
+841,18,Other,Gate access issue,2025-11-25,In Progress,Electrician,,,A,356.0,True
+842,91,Other,Lift maintenance request,2026-09-19,Open,Electrician,,,B,58.0,True
+843,92,Cleanliness,Waste collection delayed,2026-09-07,Resolved,Maintenance Team,2026-09-23,16.0,B,16.0,True
+844,148,Plumbing,Pipe leakage,2026-03-16,Open,Admin,,,C,245.0,True
+845,88,Lift,Corridor light not working,2026-05-18,In Progress,Maintenance Team,,,B,182.0,True
+846,98,Lift,Pipe leakage,2026-07-24,Resolved,Admin,2026-08-08,15.0,B,15.0,True
+847,45,Electrical,Gate access issue,2026-03-09,Resolved,Maintenance Team,2026-03-13,4.0,A,4.0,False
+848,60,Other,Common area repair,2026-08-11,In Progress,Maintenance Team,,,B,97.0,True
+849,121,Cleanliness,Low water pressure,2026-02-23,Open,Maintenance Team,,,C,266.0,True
+850,123,Water,Corridor light not working,2025-12-18,Open,Maintenance Team,,,C,333.0,True
+851,164,Water,Pipe leakage,2026-11-05,Open,Electrician,,,D,11.0,True
+852,185,Other,Waste collection delayed,2026-02-25,In Progress,Plumber,,,D,264.0,True
+853,180,Electrical,Waste collection delayed,2026-10-05,In Progress,Admin,,,D,42.0,True
+854,107,Other,Lift maintenance request,2026-03-26,Resolved,Admin,2026-03-28,2.0,C,2.0,False
+855,104,Cleanliness,Pipe leakage,2026-07-01,Resolved,Electrician,2026-07-05,4.0,C,4.0,False
+856,66,Plumbing,Corridor light not working,2026-09-09,Resolved,Maintenance Team,2026-09-24,15.0,B,15.0,True
+857,32,Plumbing,Common area repair,2025-12-26,In Progress,Electrician,,,A,325.0,True
+858,35,Other,Low water pressure,2026-07-02,Open,Maintenance Team,,,A,137.0,True
+859,97,Other,Pipe leakage,2026-03-31,Open,Plumber,,,B,230.0,True
+860,37,Cleanliness,Lift maintenance request,2026-03-13,In Progress,Electrician,,,A,248.0,True
+861,20,Electrical,Waste collection delayed,2026-08-24,In Progress,Admin,,,A,84.0,True
+862,99,Cleanliness,Waste collection delayed,2026-07-31,Resolved,Electrician,2026-08-18,18.0,B,18.0,True
+863,182,Lift,Common area repair,2026-03-23,Open,Electrician,,,D,238.0,True
+864,173,Cleanliness,Corridor light not working,2026-06-13,In Progress,Maintenance Team,,,D,156.0,True
+865,109,Electrical,Waste collection delayed,2026-01-27,Open,Electrician,,,C,293.0,True
+866,168,Plumbing,Common area repair,2026-10-20,Resolved,Admin,2026-11-01,12.0,D,12.0,True
+867,193,Water,Gate access issue,2026-11-15,Resolved,Admin,2026-11-16,1.0,D,1.0,False
+868,136,Water,Common area repair,2025-12-24,Resolved,Maintenance Team,2025-12-31,7.0,C,7.0,False
+869,77,Security,Low water pressure,2026-10-08,Resolved,Maintenance Team,2026-10-26,18.0,B,18.0,True
+870,141,Cleanliness,Corridor light not working,2026-06-16,Resolved,Electrician,2026-06-23,7.0,C,7.0,False
+871,200,Plumbing,Pipe leakage,2026-09-12,Open,Plumber,,,D,65.0,True
+872,90,Security,Corridor light not working,2026-06-23,Open,Admin,,,B,146.0,True
+873,26,Water,Corridor light not working,2026-04-27,Open,Admin,,,A,203.0,True
+874,181,Other,Waste collection delayed,2026-04-17,Resolved,Admin,2026-04-28,11.0,D,11.0,True
+875,34,Security,Gate access issue,2026-04-07,Resolved,Admin,2026-04-09,2.0,A,2.0,False
+876,148,Electrical,Gate access issue,2026-01-09,Resolved,Admin,2026-01-17,8.0,C,8.0,True
+877,169,Other,Waste collection delayed,2026-02-01,Resolved,Plumber,2026-02-12,11.0,D,11.0,True
+878,174,Water,Corridor light not working,2026-01-26,Resolved,Admin,2026-02-09,14.0,D,14.0,True
+879,49,Security,Waste collection delayed,2026-05-29,Open,Electrician,,,A,171.0,True
+880,13,Water,Low water pressure,2026-08-28,Resolved,Maintenance Team,2026-09-13,16.0,A,16.0,True
+881,60,Other,Common area repair,2026-11-01,Resolved,Plumber,2026-11-15,14.0,B,14.0,True
+882,159,Lift,Gate access issue,2025-11-22,Resolved,Plumber,2025-12-02,10.0,D,10.0,True
+883,136,Electrical,Waste collection delayed,2026-10-31,Resolved,Electrician,2026-11-16,16.0,C,16.0,True
+884,95,Electrical,Lift maintenance request,2025-12-10,Open,Plumber,,,B,341.0,True
+885,188,Water,Lift maintenance request,2026-11-07,Open,Admin,,,D,9.0,True
+886,107,Other,Waste collection delayed,2025-12-09,Resolved,Plumber,2025-12-25,16.0,C,16.0,True
+887,23,Other,Waste collection delayed,2026-06-26,In Progress,Admin,,,A,143.0,True
+888,79,Cleanliness,Common area repair,2026-01-27,Resolved,Maintenance Team,2026-01-29,2.0,B,2.0,False
+889,78,Security,Gate access issue,2026-06-15,Resolved,Maintenance Team,2026-06-24,9.0,B,9.0,True
+890,32,Lift,Corridor light not working,2025-12-05,Resolved,Maintenance Team,2025-12-09,4.0,A,4.0,False
+891,95,Plumbing,Waste collection delayed,2026-04-01,Open,Electrician,,,B,229.0,True
+892,104,Plumbing,Common area repair,2025-12-23,Resolved,Electrician,2025-12-25,2.0,C,2.0,False
+893,40,Water,Common area repair,2026-01-12,Resolved,Admin,2026-01-17,5.0,A,5.0,False
+894,9,Plumbing,Common area repair,2026-04-22,Resolved,Plumber,2026-05-08,16.0,A,16.0,True
+895,135,Security,Corridor light not working,2025-12-31,Resolved,Admin,2026-01-01,1.0,C,1.0,False
+896,173,Other,Low water pressure,2026-08-28,Resolved,Plumber,2026-09-09,12.0,D,12.0,True
+897,54,Lift,Low water pressure,2026-08-22,Resolved,Plumber,2026-09-02,11.0,B,11.0,True
+898,170,Cleanliness,Lift maintenance request,2026-02-03,Resolved,Electrician,2026-02-17,14.0,D,14.0,True
+899,141,Cleanliness,Low water pressure,2026-03-14,Open,Admin,,,C,247.0,True
+900,117,Security,Pipe leakage,2026-03-07,Resolved,Plumber,2026-03-09,2.0,C,2.0,False
+901,9,Cleanliness,Common area repair,2026-02-25,Open,Admin,,,A,264.0,True
+902,15,Other,Common area repair,2026-01-20,Resolved,Electrician,2026-02-06,17.0,A,17.0,True
+903,137,Lift,Common area repair,2026-04-23,Resolved,Plumber,2026-05-02,9.0,C,9.0,True
+904,128,Plumbing,Corridor light not working,2026-09-01,Resolved,Plumber,2026-09-09,8.0,C,8.0,True
+905,98,Cleanliness,Common area repair,2026-05-02,Resolved,Admin,2026-05-17,15.0,B,15.0,True
+906,56,Water,Pipe leakage,2026-09-24,Resolved,Electrician,2026-09-27,3.0,B,3.0,False
+907,107,Water,Common area repair,2025-12-13,Resolved,Maintenance Team,2025-12-30,17.0,C,17.0,True
+908,94,Water,Corridor light not working,2026-01-02,Resolved,Electrician,2026-01-11,9.0,B,9.0,True
+909,68,Electrical,Lift maintenance request,2026-04-08,Resolved,Admin,2026-04-10,2.0,B,2.0,False
+910,23,Cleanliness,Waste collection delayed,2026-11-07,Open,Electrician,,,A,9.0,True
+911,173,Cleanliness,Common area repair,2026-10-14,Open,Admin,,,D,33.0,True
+912,5,Other,Waste collection delayed,2026-11-06,Resolved,Electrician,2026-11-08,2.0,A,2.0,False
+913,161,Electrical,Corridor light not working,2026-05-23,Resolved,Maintenance Team,2026-06-04,12.0,D,12.0,True
+914,41,Security,Common area repair,2026-02-08,In Progress,Plumber,,,A,281.0,True
+915,41,Lift,Low water pressure,2026-06-07,Resolved,Maintenance Team,2026-06-13,6.0,A,6.0,False
+916,164,Cleanliness,Common area repair,2026-11-10,In Progress,Maintenance Team,,,D,6.0,False
+917,106,Security,Pipe leakage,2026-02-14,Resolved,Plumber,2026-02-16,2.0,C,2.0,False
+918,93,Other,Lift maintenance request,2025-12-26,In Progress,Admin,,,B,325.0,True
+919,132,Water,Gate access issue,2025-11-24,In Progress,Plumber,,,C,357.0,True
+920,144,Other,Waste collection delayed,2026-06-03,Resolved,Maintenance Team,2026-06-19,16.0,C,16.0,True
+921,169,Water,Corridor light not working,2026-06-14,Resolved,Admin,2026-06-30,16.0,D,16.0,True
+922,133,Other,Lift maintenance request,2026-10-02,Resolved,Maintenance Team,2026-10-08,6.0,C,6.0,False
+923,103,Water,Waste collection delayed,2026-03-12,Resolved,Maintenance Team,2026-03-25,13.0,C,13.0,True
+924,4,Security,Common area repair,2025-12-20,Resolved,Electrician,2025-12-23,3.0,A,3.0,False
+925,158,Electrical,Common area repair,2025-12-12,Resolved,Electrician,2025-12-14,2.0,D,2.0,False
+926,58,Lift,Low water pressure,2026-06-26,Open,Plumber,,,B,143.0,True
+927,132,Plumbing,Lift maintenance request,2026-03-06,Resolved,Plumber,2026-03-11,5.0,C,5.0,False
+928,128,Plumbing,Common area repair,2026-09-25,Resolved,Admin,2026-09-30,5.0,C,5.0,False
+929,89,Lift,Common area repair,2026-02-01,Resolved,Maintenance Team,2026-02-10,9.0,B,9.0,True
+930,184,Other,Waste collection delayed,2026-02-09,Open,Admin,,,D,280.0,True
+931,24,Security,Common area repair,2026-06-28,Resolved,Admin,2026-07-13,15.0,A,15.0,True
+932,90,Water,Low water pressure,2026-01-25,Resolved,Plumber,2026-01-29,4.0,B,4.0,False
+933,192,Security,Gate access issue,2026-05-19,Resolved,Plumber,2026-05-21,2.0,D,2.0,False
+934,104,Electrical,Common area repair,2025-12-04,Open,Maintenance Team,,,C,347.0,True
+935,152,Other,Lift maintenance request,2026-08-01,In Progress,Electrician,,,D,107.0,True
+936,11,Electrical,Gate access issue,2026-01-10,Open,Electrician,,,A,310.0,True
+937,171,Other,Lift maintenance request,2025-12-25,Resolved,Admin,2025-12-31,6.0,D,6.0,False
+938,67,Water,Waste collection delayed,2026-04-25,Open,Maintenance Team,,,B,205.0,True
+939,3,Plumbing,Waste collection delayed,2026-05-05,In Progress,Electrician,,,A,195.0,True
+940,138,Electrical,Low water pressure,2026-05-20,Resolved,Plumber,2026-06-01,12.0,C,12.0,True
+941,101,Lift,Common area repair,2026-10-28,Open,Plumber,,,C,19.0,True
+942,97,Other,Pipe leakage,2026-09-18,In Progress,Maintenance Team,,,B,59.0,True
+943,154,Plumbing,Gate access issue,2026-02-27,Resolved,Maintenance Team,2026-03-12,13.0,D,13.0,True
+944,24,Water,Corridor light not working,2026-05-29,Resolved,Maintenance Team,2026-05-31,2.0,A,2.0,False
+945,72,Electrical,Lift maintenance request,2026-02-24,Resolved,Electrician,2026-03-12,16.0,B,16.0,True
+946,192,Security,Pipe leakage,2026-01-15,Open,Maintenance Team,,,D,305.0,True
+947,169,Security,Lift maintenance request,2026-07-15,In Progress,Admin,,,D,124.0,True
+948,165,Electrical,Common area repair,2026-09-26,Open,Electrician,,,D,51.0,True
+949,91,Lift,Pipe leakage,2026-09-15,Resolved,Electrician,2026-10-03,18.0,B,18.0,True
+950,16,Electrical,Common area repair,2026-07-02,Resolved,Plumber,2026-07-19,17.0,A,17.0,True
+951,3,Other,Corridor light not working,2026-06-09,Resolved,Electrician,2026-06-22,13.0,A,13.0,True
+952,144,Cleanliness,Low water pressure,2026-09-30,In Progress,Admin,,,C,47.0,True
+953,16,Plumbing,Common area repair,2026-03-17,Open,Admin,,,A,244.0,True
+954,182,Water,Lift maintenance request,2026-02-28,In Progress,Plumber,,,D,261.0,True
+955,41,Electrical,Common area repair,2026-02-06,Resolved,Electrician,2026-02-10,4.0,A,4.0,False
+956,155,Lift,Pipe leakage,2026-01-19,Resolved,Maintenance Team,2026-01-26,7.0,D,7.0,False
+957,1,Electrical,Common area repair,2026-03-16,Open,Admin,,,A,245.0,True
+958,101,Lift,Low water pressure,2026-04-19,In Progress,Maintenance Team,,,C,211.0,True
+959,138,Lift,Low water pressure,2026-10-25,Open,Maintenance Team,,,C,22.0,True
+960,184,Plumbing,Corridor light not working,2025-12-06,Resolved,Admin,2025-12-20,14.0,D,14.0,True
+961,44,Plumbing,Common area repair,2026-02-17,Resolved,Electrician,2026-03-04,15.0,A,15.0,True
+962,4,Water,Lift maintenance request,2026-06-20,Open,Admin,,,A,149.0,True
+963,19,Electrical,Pipe leakage,2025-12-17,Resolved,Electrician,2025-12-23,6.0,A,6.0,False
+964,63,Plumbing,Waste collection delayed,2026-07-11,Resolved,Electrician,2026-07-22,11.0,B,11.0,True
+965,54,Security,Pipe leakage,2025-12-03,Resolved,Maintenance Team,2025-12-07,4.0,B,4.0,False
+966,66,Cleanliness,Lift maintenance request,2026-07-19,Resolved,Maintenance Team,2026-07-20,1.0,B,1.0,False
+967,32,Water,Lift maintenance request,2025-12-24,Resolved,Maintenance Team,2026-01-07,14.0,A,14.0,True
+968,135,Lift,Gate access issue,2026-11-02,Open,Admin,,,C,14.0,True
+969,47,Electrical,Lift maintenance request,2026-05-28,In Progress,Maintenance Team,,,A,172.0,True
+970,18,Lift,Low water pressure,2026-04-18,Resolved,Plumber,2026-04-26,8.0,A,8.0,True
+971,8,Plumbing,Pipe leakage,2025-12-28,Resolved,Electrician,2026-01-04,7.0,A,7.0,False
+972,68,Other,Common area repair,2026-09-05,Resolved,Plumber,2026-09-21,16.0,B,16.0,True
+973,116,Plumbing,Lift maintenance request,2026-10-23,Open,Maintenance Team,,,C,24.0,True
+974,3,Plumbing,Waste collection delayed,2026-06-01,Resolved,Admin,2026-06-16,15.0,A,15.0,True
+975,116,Electrical,Pipe leakage,2026-08-01,In Progress,Admin,,,C,107.0,True
+976,17,Other,Waste collection delayed,2026-09-14,Resolved,Maintenance Team,2026-09-29,15.0,A,15.0,True
+977,14,Water,Lift maintenance request,2025-12-29,In Progress,Electrician,,,A,322.0,True
+978,157,Lift,Corridor light not working,2026-03-31,In Progress,Electrician,,,D,230.0,True
+979,170,Electrical,Common area repair,2026-10-07,Open,Admin,,,D,40.0,True
+980,133,Other,Low water pressure,2026-09-20,Resolved,Plumber,2026-09-24,4.0,C,4.0,False
+981,116,Plumbing,Common area repair,2026-02-08,Open,Electrician,,,C,281.0,True
+982,125,Electrical,Lift maintenance request,2026-09-15,Resolved,Maintenance Team,2026-09-18,3.0,C,3.0,False
+983,26,Plumbing,Common area repair,2026-01-31,Resolved,Maintenance Team,2026-02-04,4.0,A,4.0,False
+984,112,Lift,Corridor light not working,2026-09-18,Resolved,Maintenance Team,2026-10-02,14.0,C,14.0,True
+985,177,Water,Gate access issue,2026-04-28,Open,Admin,,,D,202.0,True
+986,118,Water,Corridor light not working,2026-02-11,Resolved,Maintenance Team,2026-02-27,16.0,C,16.0,True
+987,65,Security,Lift maintenance request,2025-11-30,Resolved,Maintenance Team,2025-12-16,16.0,B,16.0,True
+988,75,Plumbing,Common area repair,2026-02-20,Open,Admin,,,B,269.0,True
+989,140,Security,Low water pressure,2026-09-05,Resolved,Electrician,2026-09-16,11.0,C,11.0,True
+990,127,Electrical,Low water pressure,2026-10-13,Resolved,Electrician,2026-10-19,6.0,C,6.0,False
+991,65,Plumbing,Corridor light not working,2026-02-16,Resolved,Admin,2026-02-17,1.0,B,1.0,False
+992,113,Security,Common area repair,2026-03-11,Resolved,Admin,2026-03-22,11.0,C,11.0,True
+993,165,Cleanliness,Low water pressure,2025-12-16,Resolved,Electrician,2025-12-30,14.0,D,14.0,True
+994,17,Other,Waste collection delayed,2026-01-17,In Progress,Admin,,,A,303.0,True
+995,104,Water,Low water pressure,2026-07-31,Resolved,Maintenance Team,2026-08-03,3.0,C,3.0,False
+996,147,Cleanliness,Pipe leakage,2026-07-24,In Progress,Maintenance Team,,,C,115.0,True
+997,13,Lift,Pipe leakage,2026-05-17,Resolved,Plumber,2026-05-23,6.0,A,6.0,False
+998,82,Security,Corridor light not working,2026-06-09,Resolved,Maintenance Team,2026-06-14,5.0,B,5.0,False
+999,47,Other,Common area repair,2025-12-13,Resolved,Electrician,2025-12-26,13.0,A,13.0,True
+1000,117,Other,Pipe leakage,2025-12-06,Resolved,Plumber,2025-12-15,9.0,C,9.0,True
+1001,80,Plumbing,Waste collection delayed,2026-06-29,Resolved,Admin,2026-07-17,18.0,B,18.0,True
+1002,93,Security,Lift maintenance request,2026-07-16,Resolved,Admin,2026-08-01,16.0,B,16.0,True
+1003,149,Cleanliness,Gate access issue,2026-08-04,Resolved,Maintenance Team,2026-08-17,13.0,C,13.0,True
+1004,94,Electrical,Pipe leakage,2026-03-15,Resolved,Maintenance Team,2026-03-30,15.0,B,15.0,True
+1005,113,Security,Gate access issue,2026-09-08,Resolved,Admin,2026-09-12,4.0,C,4.0,False
+1006,10,Lift,Common area repair,2025-12-21,Open,Maintenance Team,,,A,330.0,True
+1007,88,Security,Waste collection delayed,2026-07-29,Open,Electrician,,,B,110.0,True
+1008,145,Plumbing,Waste collection delayed,2025-12-27,Resolved,Maintenance Team,2026-01-04,8.0,C,8.0,True
+1009,83,Plumbing,Corridor light not working,2025-12-26,Open,Plumber,,,B,325.0,True
+1010,159,Water,Common area repair,2026-03-23,Resolved,Admin,2026-04-09,17.0,D,17.0,True
+1011,170,Electrical,Waste collection delayed,2026-02-22,Resolved,Maintenance Team,2026-02-24,2.0,D,2.0,False
+1012,116,Security,Waste collection delayed,2026-02-21,Resolved,Admin,2026-02-28,7.0,C,7.0,False
+1013,104,Security,Corridor light not working,2026-03-19,In Progress,Plumber,,,C,242.0,True
+1014,176,Plumbing,Corridor light not working,2026-10-23,Resolved,Electrician,2026-10-25,2.0,D,2.0,False
+1015,172,Other,Waste collection delayed,2026-05-29,In Progress,Electrician,,,D,171.0,True
+1016,79,Plumbing,Corridor light not working,2026-11-04,Open,Admin,,,B,12.0,True
+1017,61,Cleanliness,Low water pressure,2026-01-18,Resolved,Plumber,2026-02-03,16.0,B,16.0,True
+1018,25,Security,Corridor light not working,2026-06-25,Resolved,Electrician,2026-07-05,10.0,A,10.0,True
+1019,52,Water,Gate access issue,2026-05-02,Open,Admin,,,B,198.0,True
+1020,111,Electrical,Pipe leakage,2026-07-24,Open,Plumber,,,C,115.0,True
+1021,142,Cleanliness,Gate access issue,2026-11-10,Resolved,Admin,2026-11-16,6.0,C,6.0,False
+1022,168,Cleanliness,Corridor light not working,2026-04-05,Resolved,Plumber,2026-04-09,4.0,D,4.0,False
+1023,60,Water,Lift maintenance request,2026-05-12,Resolved,Admin,2026-05-15,3.0,B,3.0,False
+1024,15,Cleanliness,Gate access issue,2026-11-11,Open,Maintenance Team,,,A,5.0,False
+1025,159,Plumbing,Low water pressure,2026-07-29,Resolved,Plumber,2026-08-09,11.0,D,11.0,True
+1026,37,Other,Corridor light not working,2026-04-09,Resolved,Electrician,2026-04-18,9.0,A,9.0,True
+1027,148,Lift,Lift maintenance request,2026-10-13,Resolved,Plumber,2026-10-28,15.0,C,15.0,True
+1028,84,Plumbing,Corridor light not working,2026-10-07,Resolved,Plumber,2026-10-16,9.0,B,9.0,True
+1029,143,Other,Corridor light not working,2026-07-04,Resolved,Admin,2026-07-17,13.0,C,13.0,True
+1030,45,Water,Gate access issue,2026-10-27,Resolved,Admin,2026-11-14,18.0,A,18.0,True
+1031,35,Lift,Low water pressure,2026-06-05,Resolved,Maintenance Team,2026-06-17,12.0,A,12.0,True
+1032,113,Plumbing,Gate access issue,2026-08-02,Resolved,Maintenance Team,2026-08-12,10.0,C,10.0,True
+1033,67,Cleanliness,Waste collection delayed,2026-02-24,Resolved,Plumber,2026-02-27,3.0,B,3.0,False
+1034,178,Security,Low water pressure,2026-09-18,Resolved,Admin,2026-10-03,15.0,D,15.0,True
+1035,58,Lift,Corridor light not working,2026-07-20,In Progress,Plumber,,,B,119.0,True
+1036,181,Other,Lift maintenance request,2026-05-01,Open,Admin,,,D,199.0,True
+1037,4,Cleanliness,Gate access issue,2026-06-22,Resolved,Admin,2026-07-09,17.0,A,17.0,True
+1038,157,Water,Corridor light not working,2026-07-02,Resolved,Electrician,2026-07-13,11.0,D,11.0,True
+1039,30,Lift,Pipe leakage,2026-02-08,Resolved,Plumber,2026-02-21,13.0,A,13.0,True
+1040,177,Electrical,Gate access issue,2026-11-09,In Progress,Electrician,,,D,7.0,False
+1041,136,Electrical,Waste collection delayed,2026-06-16,Resolved,Electrician,2026-06-23,7.0,C,7.0,False
+1042,173,Cleanliness,Lift maintenance request,2025-12-01,Resolved,Plumber,2025-12-17,16.0,D,16.0,True
+1043,142,Water,Low water pressure,2026-04-03,Resolved,Admin,2026-04-06,3.0,C,3.0,False
+1044,11,Lift,Low water pressure,2026-06-10,Resolved,Admin,2026-06-13,3.0,A,3.0,False
+1045,116,Security,Pipe leakage,2026-02-04,Resolved,Maintenance Team,2026-02-18,14.0,C,14.0,True
+1046,56,Plumbing,Common area repair,2026-05-01,Resolved,Electrician,2026-05-18,17.0,B,17.0,True
+1047,67,Water,Waste collection delayed,2026-03-03,Open,Electrician,,,B,258.0,True
+1048,118,Water,Common area repair,2026-07-06,Resolved,Maintenance Team,2026-07-13,7.0,C,7.0,False
+1049,16,Lift,Waste collection delayed,2026-01-22,Open,Electrician,,,A,298.0,True
+1050,61,Electrical,Common area repair,2026-06-05,Resolved,Plumber,2026-06-09,4.0,B,4.0,False
+1051,61,Cleanliness,Gate access issue,2026-03-04,Resolved,Electrician,2026-03-17,13.0,B,13.0,True
+1052,32,Security,Waste collection delayed,2025-12-14,Open,Plumber,,,A,337.0,True
+1053,21,Cleanliness,Gate access issue,2026-03-29,Open,Admin,,,A,232.0,True
+1054,109,Other,Gate access issue,2026-09-29,In Progress,Admin,,,C,48.0,True
+1055,173,Lift,Low water pressure,2026-03-04,In Progress,Electrician,,,D,257.0,True
+1056,101,Electrical,Waste collection delayed,2026-01-01,Open,Plumber,,,C,319.0,True
+1057,104,Lift,Low water pressure,2025-12-13,Resolved,Admin,2025-12-23,10.0,C,10.0,True
+1058,56,Cleanliness,Gate access issue,2026-02-15,Resolved,Plumber,2026-03-03,16.0,B,16.0,True
+1059,58,Cleanliness,Waste collection delayed,2026-04-09,Resolved,Maintenance Team,2026-04-13,4.0,B,4.0,False
+1060,144,Lift,Low water pressure,2026-03-24,Resolved,Plumber,2026-04-09,16.0,C,16.0,True
+1061,171,Security,Pipe leakage,2025-11-24,In Progress,Electrician,,,D,357.0,True
+1062,199,Lift,Waste collection delayed,2026-02-08,Resolved,Admin,2026-02-20,12.0,D,12.0,True
+1063,198,Other,Waste collection delayed,2026-06-19,Resolved,Maintenance Team,2026-06-25,6.0,D,6.0,False
+1064,144,Cleanliness,Gate access issue,2026-01-17,Open,Electrician,,,C,303.0,True
+1065,100,Electrical,Common area repair,2026-08-19,Resolved,Electrician,2026-08-28,9.0,B,9.0,True
+1066,184,Security,Gate access issue,2026-01-01,Resolved,Electrician,2026-01-05,4.0,D,4.0,False
+1067,9,Lift,Pipe leakage,2025-12-15,Resolved,Plumber,2025-12-21,6.0,A,6.0,False
+1068,133,Security,Gate access issue,2026-06-13,Resolved,Electrician,2026-06-29,16.0,C,16.0,True
+1069,117,Other,Waste collection delayed,2026-01-24,In Progress,Maintenance Team,,,C,296.0,True
+1070,30,Electrical,Gate access issue,2026-10-24,Resolved,Electrician,2026-10-29,5.0,A,5.0,False
+1071,59,Other,Common area repair,2026-03-10,Open,Admin,,,B,251.0,True
+1072,83,Other,Low water pressure,2026-08-24,Resolved,Plumber,2026-09-03,10.0,B,10.0,True
+1073,128,Cleanliness,Waste collection delayed,2026-05-18,Resolved,Electrician,2026-05-31,13.0,C,13.0,True
+1074,95,Cleanliness,Waste collection delayed,2026-04-04,Resolved,Electrician,2026-04-07,3.0,B,3.0,False
+1075,113,Security,Corridor light not working,2026-06-19,Open,Maintenance Team,,,C,150.0,True
+1076,118,Plumbing,Common area repair,2026-10-23,Resolved,Plumber,2026-11-09,17.0,C,17.0,True
+1077,114,Water,Common area repair,2026-10-21,Resolved,Admin,2026-10-30,9.0,C,9.0,True
+1078,114,Other,Waste collection delayed,2026-02-03,In Progress,Electrician,,,C,286.0,True
+1079,90,Water,Corridor light not working,2026-05-11,Open,Admin,,,B,189.0,True
+1080,10,Cleanliness,Waste collection delayed,2026-06-09,Resolved,Maintenance Team,2026-06-13,4.0,A,4.0,False
+1081,99,Water,Gate access issue,2026-01-25,Open,Maintenance Team,,,B,295.0,True
+1082,164,Security,Pipe leakage,2026-05-11,Open,Maintenance Team,,,D,189.0,True
+1083,199,Cleanliness,Lift maintenance request,2026-08-06,Resolved,Electrician,2026-08-16,10.0,D,10.0,True
+1084,181,Security,Low water pressure,2026-07-24,Resolved,Admin,2026-08-04,11.0,D,11.0,True
+1085,33,Plumbing,Low water pressure,2026-09-10,Resolved,Plumber,2026-09-15,5.0,A,5.0,False
+1086,37,Electrical,Pipe leakage,2025-11-22,Resolved,Admin,2025-12-10,18.0,A,18.0,True
+1087,16,Other,Lift maintenance request,2025-12-17,Resolved,Maintenance Team,2025-12-27,10.0,A,10.0,True
+1088,45,Water,Common area repair,2025-12-29,Resolved,Maintenance Team,2026-01-06,8.0,A,8.0,True
+1089,66,Other,Low water pressure,2025-12-23,Open,Maintenance Team,,,B,328.0,True
+1090,3,Plumbing,Lift maintenance request,2026-03-22,Resolved,Plumber,2026-03-24,2.0,A,2.0,False
+1091,188,Electrical,Pipe leakage,2026-07-25,Resolved,Plumber,2026-07-29,4.0,D,4.0,False
+1092,134,Other,Gate access issue,2025-12-05,In Progress,Maintenance Team,,,C,346.0,True
+1093,28,Security,Corridor light not working,2026-02-13,Resolved,Plumber,2026-02-28,15.0,A,15.0,True
+1094,194,Lift,Common area repair,2026-08-10,Resolved,Admin,2026-08-16,6.0,D,6.0,False
+1095,140,Water,Common area repair,2026-11-12,Resolved,Admin,2026-11-15,3.0,C,3.0,False
+1096,41,Security,Low water pressure,2026-02-27,Resolved,Admin,2026-03-11,12.0,A,12.0,True
+1097,21,Electrical,Common area repair,2026-06-24,Open,Admin,,,A,145.0,True
+1098,51,Electrical,Corridor light not working,2026-02-12,Resolved,Maintenance Team,2026-02-21,9.0,B,9.0,True
+1099,26,Plumbing,Corridor light not working,2026-03-24,In Progress,Maintenance Team,,,A,237.0,True
+1100,8,Water,Corridor light not working,2026-11-12,In Progress,Electrician,,,A,4.0,False
+1101,42,Lift,Low water pressure,2026-02-28,Resolved,Plumber,2026-03-12,12.0,A,12.0,True
+1102,166,Cleanliness,Low water pressure,2025-12-02,Open,Plumber,,,D,349.0,True
+1103,164,Security,Common area repair,2026-01-10,In Progress,Plumber,,,D,310.0,True
+1104,113,Water,Low water pressure,2026-01-22,Open,Admin,,,C,298.0,True
+1105,63,Other,Gate access issue,2026-11-05,Open,Admin,,,B,11.0,True
+1106,1,Security,Pipe leakage,2026-02-08,Open,Electrician,,,A,281.0,True
+1107,26,Lift,Low water pressure,2026-09-17,Resolved,Electrician,2026-10-03,16.0,A,16.0,True
+1108,181,Security,Waste collection delayed,2026-04-30,Resolved,Maintenance Team,2026-05-16,16.0,D,16.0,True
+1109,180,Other,Corridor light not working,2026-01-28,In Progress,Electrician,,,D,292.0,True
+1110,110,Lift,Corridor light not working,2026-05-28,Resolved,Electrician,2026-05-31,3.0,C,3.0,False
+1111,42,Security,Corridor light not working,2026-06-19,Resolved,Maintenance Team,2026-07-06,17.0,A,17.0,True
+1112,93,Water,Waste collection delayed,2026-05-24,Resolved,Plumber,2026-06-01,8.0,B,8.0,True
+1113,198,Water,Corridor light not working,2026-11-07,Resolved,Plumber,2026-11-16,9.0,D,9.0,True
+1114,157,Water,Gate access issue,2026-03-15,Resolved,Admin,2026-03-16,1.0,D,1.0,False
+1115,114,Other,Waste collection delayed,2026-02-10,Resolved,Plumber,2026-02-20,10.0,C,10.0,True
+1116,171,Cleanliness,Waste collection delayed,2026-08-20,Open,Electrician,,,D,88.0,True
+1117,32,Electrical,Corridor light not working,2026-10-23,Resolved,Admin,2026-10-27,4.0,A,4.0,False
+1118,157,Electrical,Low water pressure,2026-04-19,Resolved,Maintenance Team,2026-05-06,17.0,D,17.0,True
+1119,82,Water,Common area repair,2026-05-07,Resolved,Electrician,2026-05-24,17.0,B,17.0,True
+1120,67,Security,Common area repair,2026-01-14,In Progress,Electrician,,,B,306.0,True
+1121,61,Electrical,Pipe leakage,2026-09-04,In Progress,Plumber,,,B,73.0,True
+1122,171,Plumbing,Pipe leakage,2026-06-25,Open,Admin,,,D,144.0,True
+1123,93,Other,Pipe leakage,2026-07-25,Resolved,Electrician,2026-07-26,1.0,B,1.0,False
+1124,187,Other,Pipe leakage,2026-06-01,Resolved,Plumber,2026-06-15,14.0,D,14.0,True
+1125,166,Electrical,Low water pressure,2025-11-29,In Progress,Electrician,,,D,352.0,True
+1126,183,Plumbing,Lift maintenance request,2026-10-29,Resolved,Electrician,2026-11-01,3.0,D,3.0,False
+1127,160,Other,Common area repair,2026-03-24,Open,Maintenance Team,,,D,237.0,True
+1128,34,Water,Pipe leakage,2026-11-10,Resolved,Admin,2026-11-16,6.0,A,6.0,False
+1129,20,Plumbing,Lift maintenance request,2026-11-16,Resolved,Admin,2026-11-16,0.0,A,0.0,False
+1130,171,Lift,Common area repair,2026-06-08,In Progress,Plumber,,,D,161.0,True
+1131,24,Security,Gate access issue,2026-07-11,Resolved,Admin,2026-07-26,15.0,A,15.0,True
+1132,96,Lift,Low water pressure,2026-04-02,Resolved,Plumber,2026-04-06,4.0,B,4.0,False
+1133,34,Cleanliness,Lift maintenance request,2025-12-06,Resolved,Maintenance Team,2025-12-16,10.0,A,10.0,True
+1134,6,Lift,Lift maintenance request,2025-12-26,Open,Electrician,,,A,325.0,True
+1135,177,Cleanliness,Low water pressure,2026-01-26,Open,Maintenance Team,,,D,294.0,True
+1136,98,Security,Gate access issue,2025-12-07,In Progress,Admin,,,B,344.0,True
+1137,190,Other,Low water pressure,2026-05-14,Open,Maintenance Team,,,D,186.0,True
+1138,20,Plumbing,Waste collection delayed,2026-05-30,In Progress,Plumber,,,A,170.0,True
+1139,1,Cleanliness,Lift maintenance request,2026-07-20,Open,Maintenance Team,,,A,119.0,True
+1140,122,Other,Low water pressure,2026-03-08,Resolved,Maintenance Team,2026-03-24,16.0,C,16.0,True
+1141,91,Lift,Gate access issue,2026-09-16,Resolved,Maintenance Team,2026-09-25,9.0,B,9.0,True
+1142,92,Cleanliness,Common area repair,2026-07-26,Resolved,Electrician,2026-08-03,8.0,B,8.0,True
+1143,17,Other,Corridor light not working,2026-03-23,Open,Plumber,,,A,238.0,True
+1144,177,Security,Corridor light not working,2026-10-17,Open,Electrician,,,D,30.0,True
+1145,15,Other,Waste collection delayed,2026-06-01,Resolved,Plumber,2026-06-10,9.0,A,9.0,True
+1146,64,Plumbing,Lift maintenance request,2026-10-05,Resolved,Electrician,2026-10-18,13.0,B,13.0,True
+1147,72,Plumbing,Gate access issue,2026-08-14,Resolved,Electrician,2026-08-16,2.0,B,2.0,False
+1148,29,Cleanliness,Pipe leakage,2026-02-27,Resolved,Electrician,2026-03-06,7.0,A,7.0,False
+1149,74,Water,Low water pressure,2026-09-15,In Progress,Admin,,,B,62.0,True
+1150,198,Cleanliness,Low water pressure,2026-05-10,Open,Electrician,,,D,190.0,True
+1151,61,Electrical,Gate access issue,2026-07-30,Resolved,Admin,2026-08-13,14.0,B,14.0,True
+1152,166,Electrical,Corridor light not working,2026-05-26,Resolved,Plumber,2026-06-13,18.0,D,18.0,True
+1153,129,Cleanliness,Waste collection delayed,2025-12-07,Open,Plumber,,,C,344.0,True
+1154,137,Water,Low water pressure,2026-08-01,Open,Plumber,,,C,107.0,True
+1155,135,Electrical,Gate access issue,2026-02-08,In Progress,Admin,,,C,281.0,True
+1156,87,Cleanliness,Low water pressure,2026-05-21,In Progress,Maintenance Team,,,B,179.0,True
+1157,163,Cleanliness,Gate access issue,2026-03-28,Open,Plumber,,,D,233.0,True
+1158,157,Security,Pipe leakage,2026-08-08,Resolved,Maintenance Team,2026-08-24,16.0,D,16.0,True
+1159,81,Lift,Low water pressure,2026-01-30,Resolved,Plumber,2026-02-16,17.0,B,17.0,True
+1160,163,Lift,Corridor light not working,2026-07-05,In Progress,Electrician,,,D,134.0,True
+1161,95,Cleanliness,Common area repair,2026-08-15,In Progress,Electrician,,,B,93.0,True
+1162,117,Plumbing,Pipe leakage,2026-07-01,Resolved,Maintenance Team,2026-07-12,11.0,C,11.0,True
+1163,47,Electrical,Waste collection delayed,2026-03-22,Resolved,Maintenance Team,2026-03-28,6.0,A,6.0,False
+1164,30,Lift,Common area repair,2026-08-06,Resolved,Admin,2026-08-15,9.0,A,9.0,True
+1165,114,Water,Low water pressure,2026-01-08,Resolved,Admin,2026-01-16,8.0,C,8.0,True
+1166,77,Plumbing,Corridor light not working,2026-02-26,Resolved,Plumber,2026-03-03,5.0,B,5.0,False
+1167,145,Electrical,Gate access issue,2026-09-05,Resolved,Plumber,2026-09-17,12.0,C,12.0,True
+1168,98,Water,Waste collection delayed,2026-08-18,Resolved,Admin,2026-08-25,7.0,B,7.0,False
+1169,15,Other,Low water pressure,2026-02-21,Open,Plumber,,,A,268.0,True
+1170,58,Water,Corridor light not working,2026-05-14,Resolved,Plumber,2026-05-20,6.0,B,6.0,False
+1171,146,Other,Lift maintenance request,2026-07-07,Resolved,Electrician,2026-07-12,5.0,C,5.0,False
+1172,1,Lift,Common area repair,2026-06-10,Resolved,Maintenance Team,2026-06-18,8.0,A,8.0,True
+1173,124,Cleanliness,Low water pressure,2026-05-24,Resolved,Electrician,2026-06-04,11.0,C,11.0,True
+1174,137,Other,Corridor light not working,2026-02-13,In Progress,Admin,,,C,276.0,True
+1175,186,Security,Gate access issue,2026-07-04,Resolved,Plumber,2026-07-16,12.0,D,12.0,True
+1176,12,Cleanliness,Gate access issue,2026-03-18,Resolved,Admin,2026-03-24,6.0,A,6.0,False
+1177,160,Lift,Lift maintenance request,2026-02-07,In Progress,Plumber,,,D,282.0,True
+1178,169,Lift,Low water pressure,2026-09-12,In Progress,Electrician,,,D,65.0,True
+1179,154,Electrical,Corridor light not working,2026-04-27,Resolved,Electrician,2026-05-07,10.0,D,10.0,True
+1180,99,Cleanliness,Corridor light not working,2026-02-12,Resolved,Electrician,2026-02-19,7.0,B,7.0,False
+1181,160,Lift,Lift maintenance request,2026-06-30,Resolved,Electrician,2026-07-05,5.0,D,5.0,False
+1182,34,Plumbing,Common area repair,2026-10-19,Resolved,Admin,2026-11-05,17.0,A,17.0,True
+1183,63,Electrical,Common area repair,2026-07-07,Resolved,Electrician,2026-07-18,11.0,B,11.0,True
+1184,65,Water,Common area repair,2026-06-15,Resolved,Plumber,2026-07-03,18.0,B,18.0,True
+1185,3,Water,Waste collection delayed,2026-09-13,Resolved,Plumber,2026-09-27,14.0,A,14.0,True
+1186,182,Cleanliness,Pipe leakage,2026-06-04,In Progress,Admin,,,D,165.0,True
+1187,58,Other,Gate access issue,2025-11-25,Resolved,Maintenance Team,2025-12-05,10.0,B,10.0,True
+1188,140,Cleanliness,Corridor light not working,2026-07-01,Resolved,Plumber,2026-07-15,14.0,C,14.0,True
+1189,195,Security,Lift maintenance request,2026-02-21,Resolved,Electrician,2026-03-11,18.0,D,18.0,True
+1190,11,Electrical,Waste collection delayed,2026-04-27,Resolved,Plumber,2026-05-03,6.0,A,6.0,False
+1191,124,Security,Low water pressure,2026-11-15,Open,Plumber,,,C,1.0,False
+1192,76,Cleanliness,Corridor light not working,2026-09-23,Open,Admin,,,B,54.0,True
+1193,124,Security,Common area repair,2026-04-27,Resolved,Electrician,2026-05-11,14.0,C,14.0,True
+1194,73,Plumbing,Corridor light not working,2026-05-02,Open,Plumber,,,B,198.0,True
+1195,195,Water,Lift maintenance request,2026-08-10,Resolved,Electrician,2026-08-25,15.0,D,15.0,True
+1196,121,Security,Pipe leakage,2026-01-26,Resolved,Plumber,2026-02-09,14.0,C,14.0,True
+1197,75,Electrical,Corridor light not working,2025-12-16,Open,Plumber,,,B,335.0,True
+1198,159,Other,Common area repair,2026-04-29,Resolved,Admin,2026-05-11,12.0,D,12.0,True
+1199,93,Electrical,Pipe leakage,2026-04-18,Resolved,Plumber,2026-04-28,10.0,B,10.0,True
+1200,131,Electrical,Corridor light not working,2026-09-11,In Progress,Plumber,,,C,66.0,True
+1201,13,Plumbing,Corridor light not working,2026-07-03,Resolved,Maintenance Team,2026-07-04,1.0,A,1.0,False
+1202,52,Electrical,Gate access issue,2026-01-23,Open,Electrician,,,B,297.0,True
+1203,180,Security,Pipe leakage,2026-11-05,Resolved,Electrician,2026-11-16,11.0,D,11.0,True
+1204,154,Electrical,Lift maintenance request,2026-04-18,In Progress,Electrician,,,D,212.0,True
+1205,97,Other,Common area repair,2026-03-17,Resolved,Electrician,2026-03-29,12.0,B,12.0,True
+1206,112,Cleanliness,Gate access issue,2026-06-06,Open,Maintenance Team,,,C,163.0,True
+1207,91,Electrical,Corridor light not working,2026-06-06,Open,Electrician,,,B,163.0,True
+1208,177,Cleanliness,Lift maintenance request,2026-07-07,Resolved,Electrician,2026-07-25,18.0,D,18.0,True
+1209,63,Security,Waste collection delayed,2025-12-12,Open,Plumber,,,B,339.0,True
+1210,171,Security,Pipe leakage,2026-05-01,Open,Maintenance Team,,,D,199.0,True
+1211,110,Other,Low water pressure,2026-01-11,Resolved,Electrician,2026-01-17,6.0,C,6.0,False
+1212,183,Other,Low water pressure,2026-07-24,Open,Admin,,,D,115.0,True
+1213,197,Water,Lift maintenance request,2026-07-07,Resolved,Maintenance Team,2026-07-13,6.0,D,6.0,False
+1214,158,Plumbing,Gate access issue,2026-03-04,Resolved,Plumber,2026-03-06,2.0,D,2.0,False
+1215,47,Electrical,Corridor light not working,2026-06-24,Resolved,Plumber,2026-06-27,3.0,A,3.0,False
+1216,81,Plumbing,Pipe leakage,2026-06-03,In Progress,Electrician,,,B,166.0,True
+1217,116,Lift,Waste collection delayed,2026-10-07,In Progress,Maintenance Team,,,C,40.0,True
+1218,135,Cleanliness,Corridor light not working,2026-10-02,In Progress,Maintenance Team,,,C,45.0,True
+1219,56,Electrical,Common area repair,2026-11-15,In Progress,Admin,,,B,1.0,False
+1220,188,Plumbing,Pipe leakage,2026-04-26,Resolved,Maintenance Team,2026-05-02,6.0,D,6.0,False
+1221,90,Lift,Lift maintenance request,2026-10-05,Resolved,Electrician,2026-10-13,8.0,B,8.0,True
+1222,170,Plumbing,Low water pressure,2026-05-16,Resolved,Admin,2026-05-31,15.0,D,15.0,True
+1223,62,Electrical,Pipe leakage,2025-12-27,Resolved,Maintenance Team,2026-01-10,14.0,B,14.0,True
+1224,114,Water,Lift maintenance request,2026-09-14,Resolved,Maintenance Team,2026-09-26,12.0,C,12.0,True
+1225,59,Plumbing,Lift maintenance request,2026-05-22,In Progress,Plumber,,,B,178.0,True
+1226,114,Security,Gate access issue,2026-10-14,Open,Maintenance Team,,,C,33.0,True
+1227,30,Security,Gate access issue,2026-04-12,Resolved,Electrician,2026-04-24,12.0,A,12.0,True
+1228,166,Electrical,Waste collection delayed,2026-09-07,Resolved,Plumber,2026-09-14,7.0,D,7.0,False
+1229,178,Lift,Corridor light not working,2026-07-26,Resolved,Admin,2026-07-27,1.0,D,1.0,False
+1230,199,Security,Common area repair,2026-10-21,Resolved,Admin,2026-10-28,7.0,D,7.0,False
+1231,66,Lift,Waste collection delayed,2025-12-28,Resolved,Plumber,2025-12-30,2.0,B,2.0,False
+1232,125,Cleanliness,Pipe leakage,2026-08-28,Resolved,Maintenance Team,2026-09-12,15.0,C,15.0,True
+1233,40,Water,Corridor light not working,2026-04-07,Open,Admin,,,A,223.0,True
+1234,154,Security,Gate access issue,2026-08-09,Resolved,Admin,2026-08-12,3.0,D,3.0,False
+1235,118,Cleanliness,Waste collection delayed,2025-12-19,Resolved,Admin,2025-12-28,9.0,C,9.0,True
+1236,69,Lift,Common area repair,2026-03-16,Resolved,Electrician,2026-03-24,8.0,B,8.0,True
+1237,142,Lift,Common area repair,2026-01-01,Resolved,Plumber,2026-01-08,7.0,C,7.0,False
+1238,68,Cleanliness,Low water pressure,2026-01-12,In Progress,Admin,,,B,308.0,True
+1239,119,Plumbing,Common area repair,2026-07-21,Open,Admin,,,C,118.0,True
+1240,173,Security,Lift maintenance request,2026-06-23,Open,Admin,,,D,146.0,True
+1241,42,Water,Waste collection delayed,2026-10-06,Resolved,Plumber,2026-10-24,18.0,A,18.0,True
+1242,81,Other,Waste collection delayed,2025-12-16,Resolved,Maintenance Team,2025-12-23,7.0,B,7.0,False
+1243,34,Electrical,Lift maintenance request,2026-05-14,In Progress,Plumber,,,A,186.0,True
+1244,119,Electrical,Corridor light not working,2026-05-09,In Progress,Electrician,,,C,191.0,True
+1245,9,Security,Pipe leakage,2026-09-30,In Progress,Admin,,,A,47.0,True
+1246,41,Other,Low water pressure,2026-08-20,Resolved,Electrician,2026-09-02,13.0,A,13.0,True
+1247,84,Security,Common area repair,2026-02-13,Resolved,Admin,2026-02-28,15.0,B,15.0,True
+1248,59,Lift,Waste collection delayed,2026-11-06,In Progress,Admin,,,B,10.0,True
+1249,170,Plumbing,Low water pressure,2026-10-29,Resolved,Electrician,2026-11-06,8.0,D,8.0,True
+1250,24,Electrical,Low water pressure,2026-04-08,Resolved,Electrician,2026-04-09,1.0,A,1.0,False
+1251,24,Electrical,Common area repair,2026-05-08,Resolved,Electrician,2026-05-15,7.0,A,7.0,False
+1252,37,Other,Common area repair,2026-01-19,In Progress,Maintenance Team,,,A,301.0,True
+1253,161,Plumbing,Waste collection delayed,2026-04-01,Resolved,Maintenance Team,2026-04-18,17.0,D,17.0,True
+1254,178,Water,Pipe leakage,2026-09-05,Resolved,Plumber,2026-09-11,6.0,D,6.0,False
+1255,149,Cleanliness,Gate access issue,2026-05-24,Resolved,Maintenance Team,2026-06-02,9.0,C,9.0,True
+1256,141,Cleanliness,Low water pressure,2026-09-28,Open,Admin,,,C,49.0,True
+1257,35,Plumbing,Low water pressure,2026-04-15,Resolved,Electrician,2026-04-29,14.0,A,14.0,True
+1258,143,Plumbing,Common area repair,2026-09-09,In Progress,Plumber,,,C,68.0,True
+1259,5,Lift,Common area repair,2026-07-11,Resolved,Admin,2026-07-23,12.0,A,12.0,True
+1260,45,Other,Common area repair,2026-03-24,Resolved,Plumber,2026-04-02,9.0,A,9.0,True
+1261,104,Water,Pipe leakage,2026-08-17,Resolved,Maintenance Team,2026-09-02,16.0,C,16.0,True
+1262,174,Plumbing,Common area repair,2026-04-19,Resolved,Electrician,2026-05-06,17.0,D,17.0,True
+1263,70,Electrical,Low water pressure,2026-04-09,Open,Admin,,,B,221.0,True
+1264,44,Other,Waste collection delayed,2026-04-07,Resolved,Maintenance Team,2026-04-12,5.0,A,5.0,False
+1265,198,Lift,Corridor light not working,2026-05-02,Resolved,Admin,2026-05-19,17.0,D,17.0,True
+1266,34,Water,Waste collection delayed,2026-09-17,In Progress,Electrician,,,A,60.0,True
+1267,132,Water,Waste collection delayed,2026-07-14,Resolved,Maintenance Team,2026-07-22,8.0,C,8.0,True
+1268,114,Electrical,Common area repair,2026-07-09,Resolved,Electrician,2026-07-23,14.0,C,14.0,True
+1269,157,Cleanliness,Pipe leakage,2025-11-21,Open,Plumber,,,D,360.0,True
+1270,9,Cleanliness,Low water pressure,2026-05-30,Resolved,Plumber,2026-06-11,12.0,A,12.0,True
+1271,147,Other,Pipe leakage,2025-12-19,Open,Plumber,,,C,332.0,True
+1272,33,Plumbing,Waste collection delayed,2026-06-17,Resolved,Electrician,2026-07-05,18.0,A,18.0,True
+1273,136,Lift,Corridor light not working,2026-06-04,Resolved,Admin,2026-06-20,16.0,C,16.0,True
+1274,122,Other,Lift maintenance request,2026-04-10,Resolved,Maintenance Team,2026-04-11,1.0,C,1.0,False
+1275,164,Lift,Waste collection delayed,2026-03-19,In Progress,Admin,,,D,242.0,True
+1276,121,Electrical,Common area repair,2026-07-06,Resolved,Plumber,2026-07-14,8.0,C,8.0,True
+1277,136,Lift,Waste collection delayed,2026-05-06,In Progress,Plumber,,,C,194.0,True
+1278,146,Other,Pipe leakage,2026-03-12,Resolved,Plumber,2026-03-19,7.0,C,7.0,False
+1279,125,Other,Gate access issue,2026-09-19,Resolved,Admin,2026-09-21,2.0,C,2.0,False
+1280,149,Cleanliness,Pipe leakage,2026-08-18,Resolved,Maintenance Team,2026-08-20,2.0,C,2.0,False
+1281,49,Security,Waste collection delayed,2026-06-27,Resolved,Maintenance Team,2026-07-09,12.0,A,12.0,True
+1282,15,Security,Low water pressure,2026-07-31,Open,Plumber,,,A,108.0,True
+1283,135,Electrical,Corridor light not working,2026-04-03,Open,Electrician,,,C,227.0,True
+1284,60,Water,Low water pressure,2025-11-22,Resolved,Electrician,2025-11-24,2.0,B,2.0,False
+1285,146,Other,Common area repair,2026-03-12,Resolved,Electrician,2026-03-24,12.0,C,12.0,True
+1286,30,Plumbing,Lift maintenance request,2026-08-03,In Progress,Electrician,,,A,105.0,True
+1287,180,Water,Pipe leakage,2026-10-20,Resolved,Maintenance Team,2026-10-28,8.0,D,8.0,True
+1288,120,Cleanliness,Pipe leakage,2026-02-12,Resolved,Admin,2026-02-24,12.0,C,12.0,True
+1289,186,Lift,Gate access issue,2026-09-27,Resolved,Maintenance Team,2026-09-30,3.0,D,3.0,False
+1290,144,Security,Pipe leakage,2026-08-08,Resolved,Plumber,2026-08-21,13.0,C,13.0,True
+1291,185,Water,Corridor light not working,2026-09-02,In Progress,Electrician,,,D,75.0,True
+1292,14,Cleanliness,Waste collection delayed,2026-02-18,In Progress,Admin,,,A,271.0,True
+1293,161,Cleanliness,Low water pressure,2025-12-11,Resolved,Plumber,2025-12-15,4.0,D,4.0,False
+1294,114,Cleanliness,Lift maintenance request,2026-04-02,Resolved,Maintenance Team,2026-04-03,1.0,C,1.0,False
+1295,148,Cleanliness,Low water pressure,2026-05-29,Resolved,Admin,2026-06-15,17.0,C,17.0,True
+1296,92,Plumbing,Waste collection delayed,2026-11-07,In Progress,Admin,,,B,9.0,True
+1297,183,Plumbing,Common area repair,2026-02-18,In Progress,Plumber,,,D,271.0,True
+1298,93,Lift,Pipe leakage,2026-01-13,In Progress,Admin,,,B,307.0,True
+1299,183,Plumbing,Common area repair,2026-03-15,In Progress,Electrician,,,D,246.0,True
+1300,174,Other,Gate access issue,2026-03-14,Resolved,Electrician,2026-03-17,3.0,D,3.0,False
+1301,137,Security,Corridor light not working,2026-07-30,In Progress,Electrician,,,C,109.0,True
+1302,176,Electrical,Corridor light not working,2026-07-28,In Progress,Admin,,,D,111.0,True
+1303,56,Other,Pipe leakage,2026-02-06,Open,Maintenance Team,,,B,283.0,True
+1304,52,Security,Corridor light not working,2026-02-16,Resolved,Maintenance Team,2026-02-23,7.0,B,7.0,False
+1305,33,Cleanliness,Low water pressure,2026-06-09,In Progress,Plumber,,,A,160.0,True
+1306,139,Electrical,Pipe leakage,2026-01-20,Resolved,Maintenance Team,2026-02-02,13.0,C,13.0,True
+1307,73,Electrical,Pipe leakage,2026-01-18,Resolved,Maintenance Team,2026-01-25,7.0,B,7.0,False
+1308,3,Water,Low water pressure,2026-09-04,Resolved,Admin,2026-09-05,1.0,A,1.0,False
+1309,122,Cleanliness,Gate access issue,2026-10-15,Resolved,Admin,2026-10-22,7.0,C,7.0,False
+1310,123,Electrical,Common area repair,2026-06-01,Resolved,Electrician,2026-06-12,11.0,C,11.0,True
+1311,173,Cleanliness,Pipe leakage,2026-06-30,Resolved,Electrician,2026-07-10,10.0,D,10.0,True
+1312,52,Electrical,Waste collection delayed,2026-09-25,Resolved,Maintenance Team,2026-10-07,12.0,B,12.0,True
+1313,71,Cleanliness,Waste collection delayed,2026-09-16,Resolved,Admin,2026-10-02,16.0,B,16.0,True
+1314,111,Security,Waste collection delayed,2025-12-27,Resolved,Admin,2026-01-07,11.0,C,11.0,True
+1315,5,Electrical,Lift maintenance request,2026-04-14,Resolved,Electrician,2026-04-22,8.0,A,8.0,True
+1316,161,Electrical,Lift maintenance request,2025-11-21,Resolved,Plumber,2025-11-29,8.0,D,8.0,True
+1317,35,Lift,Corridor light not working,2026-07-19,Resolved,Admin,2026-08-01,13.0,A,13.0,True
+1318,19,Security,Gate access issue,2026-01-26,Resolved,Admin,2026-02-01,6.0,A,6.0,False
+1319,49,Water,Low water pressure,2026-07-10,Resolved,Admin,2026-07-12,2.0,A,2.0,False
+1320,98,Electrical,Corridor light not working,2026-05-12,Resolved,Plumber,2026-05-15,3.0,B,3.0,False
+1321,107,Security,Common area repair,2026-08-20,Resolved,Electrician,2026-09-04,15.0,C,15.0,True
+1322,172,Other,Corridor light not working,2026-03-16,Resolved,Electrician,2026-04-02,17.0,D,17.0,True
+1323,148,Electrical,Pipe leakage,2026-02-11,Open,Electrician,,,C,278.0,True
+1324,52,Plumbing,Common area repair,2026-01-09,In Progress,Plumber,,,B,311.0,True
+1325,93,Plumbing,Pipe leakage,2026-01-21,Resolved,Plumber,2026-01-26,5.0,B,5.0,False
+1326,147,Water,Low water pressure,2026-10-05,Resolved,Maintenance Team,2026-10-17,12.0,C,12.0,True
+1327,139,Security,Common area repair,2025-12-30,Open,Maintenance Team,,,C,321.0,True
+1328,71,Plumbing,Common area repair,2026-08-05,Resolved,Admin,2026-08-17,12.0,B,12.0,True
+1329,168,Other,Lift maintenance request,2026-10-06,Open,Maintenance Team,,,D,41.0,True
+1330,16,Lift,Lift maintenance request,2026-08-04,Resolved,Maintenance Team,2026-08-19,15.0,A,15.0,True
+1331,160,Cleanliness,Common area repair,2026-10-03,In Progress,Electrician,,,D,44.0,True
+1332,18,Water,Waste collection delayed,2026-03-26,Resolved,Plumber,2026-04-07,12.0,A,12.0,True
+1333,14,Cleanliness,Low water pressure,2026-08-08,Resolved,Plumber,2026-08-18,10.0,A,10.0,True
+1334,102,Water,Lift maintenance request,2026-01-04,Resolved,Maintenance Team,2026-01-14,10.0,C,10.0,True
+1335,78,Plumbing,Pipe leakage,2026-08-18,Resolved,Electrician,2026-08-29,11.0,B,11.0,True
+1336,97,Water,Corridor light not working,2026-06-13,Resolved,Maintenance Team,2026-06-21,8.0,B,8.0,True
+1337,117,Security,Waste collection delayed,2026-06-18,Open,Plumber,,,C,151.0,True
+1338,110,Security,Corridor light not working,2026-06-22,Resolved,Electrician,2026-07-08,16.0,C,16.0,True
+1339,128,Electrical,Pipe leakage,2026-11-03,Open,Admin,,,C,13.0,True
+1340,5,Lift,Gate access issue,2026-04-22,Open,Plumber,,,A,208.0,True
+1341,11,Plumbing,Corridor light not working,2026-03-02,Resolved,Plumber,2026-03-17,15.0,A,15.0,True
+1342,187,Electrical,Corridor light not working,2026-01-03,Resolved,Plumber,2026-01-05,2.0,D,2.0,False
+1343,81,Water,Gate access issue,2026-01-20,Resolved,Electrician,2026-01-31,11.0,B,11.0,True
+1344,70,Electrical,Gate access issue,2026-07-13,Open,Electrician,,,B,126.0,True
+1345,25,Electrical,Low water pressure,2025-11-27,Resolved,Maintenance Team,2025-12-07,10.0,A,10.0,True
+1346,121,Plumbing,Lift maintenance request,2026-03-02,Open,Admin,,,C,259.0,True
+1347,198,Electrical,Low water pressure,2026-02-03,Open,Admin,,,D,286.0,True
+1348,33,Other,Pipe leakage,2026-03-17,Resolved,Admin,2026-04-02,16.0,A,16.0,True
+1349,181,Water,Corridor light not working,2026-06-30,Resolved,Maintenance Team,2026-07-07,7.0,D,7.0,False
+1350,11,Cleanliness,Gate access issue,2026-02-19,In Progress,Maintenance Team,,,A,270.0,True
+1351,117,Lift,Common area repair,2026-10-13,Resolved,Electrician,2026-10-14,1.0,C,1.0,False
+1352,190,Security,Low water pressure,2026-04-15,Resolved,Plumber,2026-04-26,11.0,D,11.0,True
+1353,4,Electrical,Pipe leakage,2026-08-28,Resolved,Electrician,2026-09-07,10.0,A,10.0,True
+1354,128,Cleanliness,Lift maintenance request,2025-12-01,In Progress,Maintenance Team,,,C,350.0,True
+1355,154,Plumbing,Pipe leakage,2026-01-04,In Progress,Electrician,,,D,316.0,True
+1356,100,Plumbing,Corridor light not working,2026-04-04,Resolved,Electrician,2026-04-16,12.0,B,12.0,True
+1357,186,Security,Corridor light not working,2026-07-14,Resolved,Electrician,2026-07-24,10.0,D,10.0,True
+1358,41,Water,Gate access issue,2026-10-24,Resolved,Admin,2026-10-26,2.0,A,2.0,False
+1359,100,Plumbing,Gate access issue,2026-02-21,Open,Admin,,,B,268.0,True
+1360,174,Security,Low water pressure,2026-01-25,Resolved,Maintenance Team,2026-02-03,9.0,D,9.0,True
+1361,146,Water,Gate access issue,2026-10-07,Resolved,Electrician,2026-10-14,7.0,C,7.0,False
+1362,20,Cleanliness,Low water pressure,2026-10-10,Resolved,Plumber,2026-10-16,6.0,A,6.0,False
+1363,166,Security,Waste collection delayed,2026-10-31,Open,Admin,,,D,16.0,True
+1364,70,Other,Waste collection delayed,2026-06-29,Resolved,Electrician,2026-07-15,16.0,B,16.0,True
+1365,20,Electrical,Waste collection delayed,2026-10-26,Open,Maintenance Team,,,A,21.0,True
+1366,89,Water,Waste collection delayed,2025-12-17,In Progress,Electrician,,,B,334.0,True
+1367,2,Water,Waste collection delayed,2026-11-11,In Progress,Admin,,,A,5.0,False
+1368,177,Cleanliness,Gate access issue,2026-08-02,Open,Admin,,,D,106.0,True
+1369,54,Security,Lift maintenance request,2026-07-12,Resolved,Plumber,2026-07-28,16.0,B,16.0,True
+1370,87,Lift,Gate access issue,2026-10-18,Open,Electrician,,,B,29.0,True
+1371,112,Security,Lift maintenance request,2026-07-25,Open,Electrician,,,C,114.0,True
+1372,146,Other,Corridor light not working,2026-11-14,Open,Admin,,,C,2.0,False
+1373,69,Security,Common area repair,2026-08-03,Open,Admin,,,B,105.0,True
+1374,104,Electrical,Pipe leakage,2026-07-04,Resolved,Admin,2026-07-08,4.0,C,4.0,False
+1375,168,Lift,Corridor light not working,2025-12-28,Resolved,Plumber,2026-01-06,9.0,D,9.0,True
+1376,47,Security,Common area repair,2026-06-04,Resolved,Plumber,2026-06-13,9.0,A,9.0,True
+1377,183,Lift,Common area repair,2025-12-03,Resolved,Maintenance Team,2025-12-15,12.0,D,12.0,True
+1378,61,Cleanliness,Lift maintenance request,2025-12-23,Resolved,Maintenance Team,2026-01-05,13.0,B,13.0,True
+1379,152,Lift,Lift maintenance request,2025-11-21,Resolved,Maintenance Team,2025-12-05,14.0,D,14.0,True
+1380,148,Security,Pipe leakage,2026-05-30,Open,Electrician,,,C,170.0,True
+1381,95,Plumbing,Waste collection delayed,2026-07-29,Resolved,Admin,2026-08-10,12.0,B,12.0,True
+1382,109,Plumbing,Common area repair,2026-01-26,Open,Admin,,,C,294.0,True
+1383,107,Plumbing,Corridor light not working,2026-01-17,Resolved,Plumber,2026-01-25,8.0,C,8.0,True
+1384,52,Other,Pipe leakage,2026-02-24,Resolved,Admin,2026-03-07,11.0,B,11.0,True
+1385,89,Water,Common area repair,2026-10-10,Open,Admin,,,B,37.0,True
+1386,169,Plumbing,Gate access issue,2026-09-04,Resolved,Maintenance Team,2026-09-14,10.0,D,10.0,True
+1387,21,Cleanliness,Corridor light not working,2026-08-22,Open,Admin,,,A,86.0,True
+1388,188,Electrical,Pipe leakage,2026-02-03,Resolved,Maintenance Team,2026-02-06,3.0,D,3.0,False
+1389,138,Plumbing,Lift maintenance request,2026-02-11,Resolved,Admin,2026-02-19,8.0,C,8.0,True
+1390,31,Cleanliness,Pipe leakage,2025-11-27,In Progress,Electrician,,,A,354.0,True
+1391,132,Water,Lift maintenance request,2026-09-18,Resolved,Plumber,2026-09-30,12.0,C,12.0,True
+1392,160,Water,Common area repair,2026-05-21,Resolved,Maintenance Team,2026-05-29,8.0,D,8.0,True
+1393,42,Water,Lift maintenance request,2026-07-29,Open,Electrician,,,A,110.0,True
+1394,71,Other,Low water pressure,2026-05-27,Open,Maintenance Team,,,B,173.0,True
+1395,104,Plumbing,Gate access issue,2026-07-04,In Progress,Electrician,,,C,135.0,True
+1396,96,Plumbing,Common area repair,2025-12-12,Resolved,Plumber,2025-12-20,8.0,B,8.0,True
+1397,79,Lift,Lift maintenance request,2026-03-07,In Progress,Electrician,,,B,254.0,True
+1398,113,Security,Waste collection delayed,2026-11-08,Resolved,Electrician,2026-11-16,8.0,C,8.0,True
+1399,77,Security,Lift maintenance request,2026-04-19,Resolved,Maintenance Team,2026-05-05,16.0,B,16.0,True
+1400,148,Lift,Waste collection delayed,2026-07-12,Resolved,Electrician,2026-07-29,17.0,C,17.0,True
+1401,148,Plumbing,Waste collection delayed,2026-05-29,Resolved,Plumber,2026-06-03,5.0,C,5.0,False
+1402,71,Electrical,Waste collection delayed,2026-08-14,Open,Plumber,,,B,94.0,True
+1403,180,Water,Pipe leakage,2026-05-02,Open,Electrician,,,D,198.0,True
+1404,170,Plumbing,Common area repair,2026-10-05,Resolved,Admin,2026-10-11,6.0,D,6.0,False
+1405,44,Lift,Pipe leakage,2026-03-28,Open,Admin,,,A,233.0,True
+1406,52,Water,Low water pressure,2026-01-03,Open,Electrician,,,B,317.0,True
+1407,144,Other,Low water pressure,2026-09-04,Open,Electrician,,,C,73.0,True
+1408,36,Other,Waste collection delayed,2026-01-27,Open,Electrician,,,A,293.0,True
+1409,28,Electrical,Pipe leakage,2026-08-19,Resolved,Plumber,2026-08-23,4.0,A,4.0,False
+1410,197,Water,Waste collection delayed,2026-10-24,Resolved,Admin,2026-10-31,7.0,D,7.0,False
+1411,97,Water,Waste collection delayed,2026-07-02,Open,Plumber,,,B,137.0,True
+1412,190,Plumbing,Waste collection delayed,2026-02-10,Resolved,Electrician,2026-02-18,8.0,D,8.0,True
+1413,73,Water,Lift maintenance request,2026-10-06,Resolved,Plumber,2026-10-14,8.0,B,8.0,True
+1414,96,Security,Gate access issue,2026-01-26,Resolved,Maintenance Team,2026-02-08,13.0,B,13.0,True
+1415,14,Plumbing,Common area repair,2026-06-15,Resolved,Plumber,2026-06-22,7.0,A,7.0,False
+1416,102,Electrical,Gate access issue,2026-08-01,Resolved,Maintenance Team,2026-08-12,11.0,C,11.0,True
+1417,120,Electrical,Low water pressure,2026-08-10,In Progress,Maintenance Team,,,C,98.0,True
+1418,136,Plumbing,Waste collection delayed,2026-06-01,In Progress,Admin,,,C,168.0,True
+1419,161,Other,Lift maintenance request,2026-03-07,Resolved,Maintenance Team,2026-03-20,13.0,D,13.0,True
+1420,37,Security,Low water pressure,2026-08-19,Open,Admin,,,A,89.0,True
+1421,154,Security,Waste collection delayed,2026-07-29,In Progress,Electrician,,,D,110.0,True
+1422,169,Electrical,Corridor light not working,2025-12-08,In Progress,Plumber,,,D,343.0,True
+1423,161,Electrical,Corridor light not working,2026-08-08,Open,Electrician,,,D,100.0,True
+1424,168,Water,Common area repair,2026-09-11,In Progress,Admin,,,D,66.0,True
+1425,98,Plumbing,Corridor light not working,2026-06-14,Open,Maintenance Team,,,B,155.0,True
+1426,141,Water,Lift maintenance request,2026-06-24,Resolved,Admin,2026-07-02,8.0,C,8.0,True
+1427,6,Cleanliness,Pipe leakage,2026-09-01,Open,Electrician,,,A,76.0,True
+1428,199,Water,Lift maintenance request,2026-08-12,Resolved,Admin,2026-08-22,10.0,D,10.0,True
+1429,59,Security,Corridor light not working,2026-05-06,Resolved,Electrician,2026-05-13,7.0,B,7.0,False
+1430,114,Lift,Lift maintenance request,2026-08-26,Resolved,Maintenance Team,2026-09-06,11.0,C,11.0,True
+1431,13,Electrical,Waste collection delayed,2026-03-07,Resolved,Admin,2026-03-15,8.0,A,8.0,True
+1432,117,Lift,Low water pressure,2026-09-14,Open,Admin,,,C,63.0,True
+1433,186,Security,Lift maintenance request,2026-04-04,Resolved,Plumber,2026-04-22,18.0,D,18.0,True
+1434,128,Security,Corridor light not working,2026-06-12,In Progress,Plumber,,,C,157.0,True
+1435,35,Other,Waste collection delayed,2026-06-22,Resolved,Admin,2026-07-03,11.0,A,11.0,True
+1436,21,Lift,Lift maintenance request,2026-10-23,In Progress,Plumber,,,A,24.0,True
+1437,21,Security,Gate access issue,2026-11-03,Resolved,Electrician,2026-11-11,8.0,A,8.0,True
+1438,156,Lift,Low water pressure,2025-11-24,In Progress,Plumber,,,D,357.0,True
+1439,81,Other,Lift maintenance request,2025-11-24,Resolved,Electrician,2025-12-01,7.0,B,7.0,False
+1440,131,Other,Corridor light not working,2026-03-06,Resolved,Electrician,2026-03-12,6.0,C,6.0,False
+1441,37,Cleanliness,Lift maintenance request,2026-02-26,In Progress,Electrician,,,A,263.0,True
+1442,82,Lift,Waste collection delayed,2026-01-18,Resolved,Maintenance Team,2026-01-25,7.0,B,7.0,False
+1443,187,Lift,Common area repair,2026-10-06,In Progress,Admin,,,D,41.0,True
+1444,161,Security,Low water pressure,2026-05-25,Resolved,Electrician,2026-06-04,10.0,D,10.0,True
+1445,143,Lift,Pipe leakage,2025-12-26,Open,Electrician,,,C,325.0,True
+1446,78,Lift,Pipe leakage,2026-04-17,Open,Maintenance Team,,,B,213.0,True
+1447,190,Cleanliness,Gate access issue,2026-05-31,Resolved,Electrician,2026-06-17,17.0,D,17.0,True
+1448,173,Lift,Waste collection delayed,2026-05-06,Resolved,Admin,2026-05-21,15.0,D,15.0,True
+1449,106,Other,Corridor light not working,2026-11-15,In Progress,Maintenance Team,,,C,1.0,False
+1450,151,Lift,Lift maintenance request,2026-06-17,Open,Electrician,,,D,152.0,True
+1451,54,Water,Gate access issue,2026-01-26,Resolved,Maintenance Team,2026-01-29,3.0,B,3.0,False
+1452,64,Security,Common area repair,2025-12-17,Open,Plumber,,,B,334.0,True
+1453,25,Lift,Pipe leakage,2026-08-02,In Progress,Plumber,,,A,106.0,True
+1454,70,Water,Common area repair,2026-02-21,In Progress,Electrician,,,B,268.0,True
+1455,199,Electrical,Gate access issue,2026-02-24,Resolved,Plumber,2026-03-08,12.0,D,12.0,True
+1456,182,Security,Waste collection delayed,2026-03-20,Open,Electrician,,,D,241.0,True
+1457,139,Lift,Waste collection delayed,2026-01-21,Resolved,Maintenance Team,2026-01-22,1.0,C,1.0,False
+1458,56,Security,Lift maintenance request,2026-05-15,Resolved,Plumber,2026-05-20,5.0,B,5.0,False
+1459,128,Security,Waste collection delayed,2026-05-28,In Progress,Admin,,,C,172.0,True
+1460,168,Other,Corridor light not working,2026-03-11,In Progress,Electrician,,,D,250.0,True
+1461,100,Electrical,Gate access issue,2026-09-06,Resolved,Admin,2026-09-09,3.0,B,3.0,False
+1462,66,Lift,Corridor light not working,2026-03-25,Resolved,Plumber,2026-04-02,8.0,B,8.0,True
+1463,180,Electrical,Pipe leakage,2026-01-16,Open,Plumber,,,D,304.0,True
+1464,4,Security,Waste collection delayed,2026-10-19,In Progress,Electrician,,,A,28.0,True
+1465,6,Other,Corridor light not working,2026-08-13,Resolved,Plumber,2026-08-27,14.0,A,14.0,True
+1466,169,Security,Waste collection delayed,2026-02-23,Resolved,Plumber,2026-03-08,13.0,D,13.0,True
+1467,80,Electrical,Common area repair,2026-02-19,In Progress,Admin,,,B,270.0,True
+1468,94,Electrical,Lift maintenance request,2026-03-29,In Progress,Maintenance Team,,,B,232.0,True
+1469,13,Cleanliness,Lift maintenance request,2026-05-19,In Progress,Plumber,,,A,181.0,True
+1470,145,Water,Pipe leakage,2026-07-08,Open,Electrician,,,C,131.0,True
+1471,81,Water,Gate access issue,2026-10-01,Resolved,Admin,2026-10-11,10.0,B,10.0,True
+1472,83,Other,Low water pressure,2026-07-24,Resolved,Electrician,2026-07-26,2.0,B,2.0,False
+1473,20,Security,Corridor light not working,2026-11-08,In Progress,Electrician,,,A,8.0,True
+1474,123,Security,Low water pressure,2026-03-13,Resolved,Maintenance Team,2026-03-16,3.0,C,3.0,False
+1475,185,Cleanliness,Lift maintenance request,2025-11-30,Resolved,Admin,2025-12-08,8.0,D,8.0,True
+1476,94,Electrical,Lift maintenance request,2025-12-30,Resolved,Admin,2026-01-03,4.0,B,4.0,False
+1477,174,Security,Pipe leakage,2026-11-04,In Progress,Maintenance Team,,,D,12.0,True
+1478,102,Lift,Low water pressure,2025-12-28,Resolved,Maintenance Team,2026-01-13,16.0,C,16.0,True
+1479,76,Water,Common area repair,2026-09-10,Resolved,Electrician,2026-09-15,5.0,B,5.0,False
+1480,10,Other,Gate access issue,2026-02-20,Resolved,Maintenance Team,2026-02-22,2.0,A,2.0,False
+1481,183,Cleanliness,Gate access issue,2026-05-02,In Progress,Maintenance Team,,,D,198.0,True
+1482,9,Lift,Gate access issue,2026-09-26,Resolved,Electrician,2026-10-06,10.0,A,10.0,True
+1483,12,Electrical,Gate access issue,2026-01-24,Open,Admin,,,A,296.0,True
+1484,161,Cleanliness,Waste collection delayed,2025-12-09,Open,Maintenance Team,,,D,342.0,True
+1485,190,Cleanliness,Waste collection delayed,2026-02-26,Resolved,Electrician,2026-03-01,3.0,D,3.0,False
+1486,181,Electrical,Pipe leakage,2026-01-17,Resolved,Electrician,2026-01-29,12.0,D,12.0,True
+1487,74,Water,Corridor light not working,2026-09-29,Resolved,Electrician,2026-10-17,18.0,B,18.0,True
+1488,33,Other,Low water pressure,2026-01-12,Resolved,Admin,2026-01-14,2.0,A,2.0,False
+1489,84,Lift,Waste collection delayed,2026-10-08,Resolved,Admin,2026-10-13,5.0,B,5.0,False
+1490,71,Other,Low water pressure,2026-06-26,Resolved,Admin,2026-06-29,3.0,B,3.0,False
+1491,35,Electrical,Common area repair,2025-12-11,Resolved,Maintenance Team,2025-12-23,12.0,A,12.0,True
+1492,135,Electrical,Lift maintenance request,2026-10-31,Resolved,Maintenance Team,2026-11-14,14.0,C,14.0,True
+1493,24,Plumbing,Corridor light not working,2026-03-08,Resolved,Plumber,2026-03-15,7.0,A,7.0,False
+1494,131,Plumbing,Pipe leakage,2026-03-16,Open,Maintenance Team,,,C,245.0,True
+1495,121,Security,Pipe leakage,2025-12-14,Resolved,Electrician,2025-12-15,1.0,C,1.0,False
+1496,28,Security,Pipe leakage,2026-10-04,Resolved,Admin,2026-10-16,12.0,A,12.0,True
+1497,199,Lift,Common area repair,2026-04-04,Resolved,Plumber,2026-04-19,15.0,D,15.0,True
+1498,147,Cleanliness,Waste collection delayed,2026-05-23,Resolved,Plumber,2026-05-24,1.0,C,1.0,False
+1499,102,Lift,Low water pressure,2026-02-24,Open,Plumber,,,C,265.0,True
+1500,149,Other,Pipe leakage,2026-02-27,Resolved,Plumber,2026-03-17,18.0,C,18.0,True
+1501,114,Cleanliness,Gate access issue,2026-01-01,Resolved,Maintenance Team,2026-01-09,8.0,C,8.0,True
+1502,169,Water,Low water pressure,2026-09-21,Open,Electrician,,,D,56.0,True
+1503,131,Plumbing,Gate access issue,2026-10-11,Resolved,Electrician,2026-10-24,13.0,C,13.0,True
+1504,103,Plumbing,Corridor light not working,2026-07-16,Resolved,Electrician,2026-07-19,3.0,C,3.0,False
+1505,172,Electrical,Pipe leakage,2026-02-28,Resolved,Maintenance Team,2026-03-14,14.0,D,14.0,True
+1506,139,Cleanliness,Lift maintenance request,2026-02-23,In Progress,Admin,,,C,266.0,True
+1507,193,Electrical,Low water pressure,2025-11-30,In Progress,Electrician,,,D,351.0,True
+1508,111,Water,Common area repair,2025-11-27,In Progress,Maintenance Team,,,C,354.0,True
+1509,6,Plumbing,Gate access issue,2026-10-24,In Progress,Electrician,,,A,23.0,True
+1510,187,Security,Common area repair,2026-07-14,Resolved,Admin,2026-07-24,10.0,D,10.0,True
+1511,194,Cleanliness,Common area repair,2025-12-20,In Progress,Maintenance Team,,,D,331.0,True
+1512,199,Other,Corridor light not working,2025-12-11,Resolved,Admin,2025-12-29,18.0,D,18.0,True
+1513,87,Electrical,Common area repair,2026-02-24,Resolved,Admin,2026-03-12,16.0,B,16.0,True
+1514,181,Lift,Waste collection delayed,2026-09-04,Resolved,Plumber,2026-09-21,17.0,D,17.0,True
+1515,29,Cleanliness,Common area repair,2026-04-02,Open,Admin,,,A,228.0,True
+1516,198,Plumbing,Low water pressure,2026-02-23,Resolved,Maintenance Team,2026-03-03,8.0,D,8.0,True
+1517,194,Security,Low water pressure,2026-01-08,In Progress,Admin,,,D,312.0,True
+1518,170,Other,Pipe leakage,2026-04-02,Open,Admin,,,D,228.0,True
+1519,152,Plumbing,Pipe leakage,2026-08-08,Resolved,Maintenance Team,2026-08-18,10.0,D,10.0,True
+1520,77,Lift,Corridor light not working,2026-07-13,In Progress,Admin,,,B,126.0,True
+1521,135,Electrical,Waste collection delayed,2026-03-19,Resolved,Admin,2026-04-05,17.0,C,17.0,True
+1522,188,Electrical,Lift maintenance request,2025-12-29,In Progress,Admin,,,D,322.0,True
+1523,119,Security,Low water pressure,2026-02-09,Resolved,Plumber,2026-02-20,11.0,C,11.0,True
+1524,38,Water,Corridor light not working,2026-05-17,Resolved,Admin,2026-05-18,1.0,A,1.0,False
+1525,152,Water,Low water pressure,2026-03-01,In Progress,Maintenance Team,,,D,260.0,True
+1526,149,Security,Low water pressure,2026-05-31,Resolved,Admin,2026-06-11,11.0,C,11.0,True
+1527,18,Electrical,Corridor light not working,2026-06-24,Resolved,Plumber,2026-07-12,18.0,A,18.0,True
+1528,101,Water,Pipe leakage,2026-04-19,Resolved,Admin,2026-04-26,7.0,C,7.0,False
+1529,6,Other,Common area repair,2026-11-10,Open,Plumber,,,A,6.0,False
+1530,77,Water,Low water pressure,2026-07-22,Resolved,Admin,2026-08-06,15.0,B,15.0,True
+1531,83,Plumbing,Corridor light not working,2025-12-19,Resolved,Electrician,2025-12-22,3.0,B,3.0,False
+1532,47,Security,Low water pressure,2026-04-18,In Progress,Plumber,,,A,212.0,True
+1533,132,Plumbing,Common area repair,2026-06-21,Open,Electrician,,,C,148.0,True
+1534,84,Water,Lift maintenance request,2026-07-17,Resolved,Electrician,2026-07-30,13.0,B,13.0,True
+1535,79,Electrical,Low water pressure,2026-10-05,Resolved,Plumber,2026-10-18,13.0,B,13.0,True
+1536,147,Water,Gate access issue,2026-11-06,Resolved,Admin,2026-11-11,5.0,C,5.0,False
+1537,141,Cleanliness,Corridor light not working,2026-11-11,Resolved,Plumber,2026-11-16,5.0,C,5.0,False
+1538,168,Other,Low water pressure,2026-10-08,Open,Plumber,,,D,39.0,True
+1539,156,Water,Lift maintenance request,2026-10-29,Resolved,Maintenance Team,2026-11-04,6.0,D,6.0,False
+1540,24,Security,Corridor light not working,2026-03-01,In Progress,Admin,,,A,260.0,True
+1541,170,Other,Low water pressure,2026-08-24,Resolved,Admin,2026-09-11,18.0,D,18.0,True
+1542,84,Water,Low water pressure,2026-09-25,Resolved,Admin,2026-10-12,17.0,B,17.0,True
+1543,78,Electrical,Corridor light not working,2026-10-08,In Progress,Maintenance Team,,,B,39.0,True
+1544,83,Electrical,Low water pressure,2026-05-06,Open,Admin,,,B,194.0,True
+1545,5,Lift,Gate access issue,2026-08-26,Resolved,Admin,2026-09-06,11.0,A,11.0,True
+1546,139,Lift,Gate access issue,2026-03-19,Resolved,Maintenance Team,2026-03-28,9.0,C,9.0,True
+1547,188,Plumbing,Corridor light not working,2026-07-16,In Progress,Maintenance Team,,,D,123.0,True
+1548,178,Water,Common area repair,2026-11-06,Open,Plumber,,,D,10.0,True
+1549,182,Cleanliness,Gate access issue,2026-01-18,In Progress,Admin,,,D,302.0,True
+1550,12,Plumbing,Lift maintenance request,2026-01-11,Resolved,Maintenance Team,2026-01-19,8.0,A,8.0,True
+1551,96,Water,Lift maintenance request,2026-03-02,Resolved,Admin,2026-03-09,7.0,B,7.0,False
+1552,98,Water,Low water pressure,2026-09-29,In Progress,Admin,,,B,48.0,True
+1553,110,Other,Corridor light not working,2025-12-30,Open,Plumber,,,C,321.0,True
+1554,21,Lift,Common area repair,2026-10-19,In Progress,Admin,,,A,28.0,True
+1555,199,Security,Corridor light not working,2026-07-21,In Progress,Plumber,,,D,118.0,True
+1556,81,Other,Pipe leakage,2026-06-17,In Progress,Maintenance Team,,,B,152.0,True
+1557,76,Water,Lift maintenance request,2026-06-17,In Progress,Plumber,,,B,152.0,True
+1558,58,Security,Gate access issue,2026-06-26,Open,Electrician,,,B,143.0,True
+1559,120,Cleanliness,Corridor light not working,2026-09-21,In Progress,Admin,,,C,56.0,True
+1560,174,Cleanliness,Waste collection delayed,2026-07-08,In Progress,Plumber,,,D,131.0,True
+1561,155,Lift,Low water pressure,2026-08-07,Open,Admin,,,D,101.0,True
+1562,11,Security,Common area repair,2026-10-30,Open,Electrician,,,A,17.0,True
+1563,190,Security,Corridor light not working,2026-10-14,Open,Maintenance Team,,,D,33.0,True
+1564,156,Electrical,Waste collection delayed,2026-04-18,Resolved,Plumber,2026-04-21,3.0,D,3.0,False
+1565,92,Cleanliness,Low water pressure,2025-12-09,Resolved,Maintenance Team,2025-12-27,18.0,B,18.0,True
+1566,134,Water,Waste collection delayed,2025-12-26,Resolved,Plumber,2025-12-30,4.0,C,4.0,False
+1567,92,Water,Low water pressure,2026-03-07,Open,Plumber,,,B,254.0,True
+1568,182,Electrical,Waste collection delayed,2026-01-04,Resolved,Maintenance Team,2026-01-17,13.0,D,13.0,True
+1569,13,Cleanliness,Common area repair,2026-04-16,Resolved,Admin,2026-04-17,1.0,A,1.0,False
+1570,174,Other,Waste collection delayed,2026-07-09,Resolved,Plumber,2026-07-23,14.0,D,14.0,True
+1571,156,Other,Pipe leakage,2026-06-10,Resolved,Electrician,2026-06-21,11.0,D,11.0,True
+1572,166,Other,Corridor light not working,2026-09-18,Resolved,Admin,2026-09-21,3.0,D,3.0,False
+1573,93,Security,Gate access issue,2026-02-18,Resolved,Plumber,2026-02-26,8.0,B,8.0,True
+1574,154,Cleanliness,Corridor light not working,2026-07-03,Resolved,Maintenance Team,2026-07-20,17.0,D,17.0,True
+1575,159,Other,Pipe leakage,2026-10-28,Resolved,Admin,2026-11-13,16.0,D,16.0,True
+1576,152,Other,Low water pressure,2026-08-22,Open,Maintenance Team,,,D,86.0,True
+1577,173,Electrical,Low water pressure,2026-01-27,Resolved,Admin,2026-01-29,2.0,D,2.0,False
+1578,56,Security,Pipe leakage,2026-04-30,Resolved,Electrician,2026-05-12,12.0,B,12.0,True
+1579,168,Plumbing,Gate access issue,2026-07-18,Resolved,Plumber,2026-07-19,1.0,D,1.0,False
+1580,183,Plumbing,Pipe leakage,2026-03-16,In Progress,Maintenance Team,,,D,245.0,True
+1581,19,Lift,Pipe leakage,2026-08-19,Resolved,Electrician,2026-08-27,8.0,A,8.0,True
+1582,44,Plumbing,Waste collection delayed,2026-10-30,In Progress,Admin,,,A,17.0,True
+1583,2,Other,Pipe leakage,2026-09-23,Resolved,Maintenance Team,2026-10-02,9.0,A,9.0,True
+1584,151,Plumbing,Pipe leakage,2026-07-16,Resolved,Admin,2026-08-01,16.0,D,16.0,True
+1585,41,Lift,Pipe leakage,2026-01-08,Resolved,Maintenance Team,2026-01-12,4.0,A,4.0,False
+1586,15,Security,Pipe leakage,2026-08-26,In Progress,Plumber,,,A,82.0,True
+1587,124,Electrical,Waste collection delayed,2026-10-20,In Progress,Admin,,,C,27.0,True
+1588,186,Security,Corridor light not working,2026-05-16,In Progress,Electrician,,,D,184.0,True
+1589,88,Security,Low water pressure,2025-12-10,Resolved,Electrician,2025-12-25,15.0,B,15.0,True
+1590,81,Electrical,Gate access issue,2026-07-30,In Progress,Maintenance Team,,,B,109.0,True
+1591,173,Electrical,Pipe leakage,2026-01-02,Resolved,Maintenance Team,2026-01-17,15.0,D,15.0,True
+1592,107,Plumbing,Low water pressure,2026-09-16,Resolved,Admin,2026-09-17,1.0,C,1.0,False
+1593,54,Lift,Common area repair,2026-09-07,Resolved,Plumber,2026-09-18,11.0,B,11.0,True
+1594,72,Security,Waste collection delayed,2026-02-02,Resolved,Plumber,2026-02-05,3.0,B,3.0,False
+1595,6,Water,Gate access issue,2026-10-19,Resolved,Admin,2026-10-30,11.0,A,11.0,True
+1596,103,Plumbing,Lift maintenance request,2026-08-21,Open,Electrician,,,C,87.0,True
+1597,11,Lift,Lift maintenance request,2026-02-15,Resolved,Maintenance Team,2026-02-16,1.0,A,1.0,False
+1598,182,Lift,Waste collection delayed,2025-11-23,Resolved,Maintenance Team,2025-12-11,18.0,D,18.0,True
+1599,52,Electrical,Corridor light not working,2026-08-12,Open,Electrician,,,B,96.0,True
+1600,49,Electrical,Lift maintenance request,2026-02-21,Resolved,Admin,2026-02-22,1.0,A,1.0,False

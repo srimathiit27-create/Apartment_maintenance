@@ -1,0 +1,10 @@
+{
+  "apartments": 200,
+  "charges": 2400,
+  "complaints": 1600,
+  "collected": 3349100.0,
+  "outstanding": 1468700.0,
+  "resolved_pct": 60.1,
+  "sla_breaches": 1204,
+  "charts": 12
+}
